@@ -20,6 +20,7 @@
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [cli](#cli)
+- [continuous-integration](#continuous-integration)
 - [css](#css)
 - [dart](#dart)
 - [data](#data)
@@ -108,6 +109,7 @@
 
 ## awesome 
 
+- [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - The list of continuous integration services and tools
 - [mcanouil/awesome-quarto](https://github.com/mcanouil/awesome-quarto) - A curated list of Quarto talks, tools, examples & articles! Contributions welcome!
 - [zefanja/awesome-opensource-school](https://github.com/zefanja/awesome-opensource-school) - awesome free and open source software (FOSS) for schools
 - [fstanis/awesome-webdav](https://github.com/fstanis/awesome-webdav) - A curated list of awesome apps that support WebDAV and tools related to it.
@@ -154,6 +156,10 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [2KAbhishek/tmux-tilit](https://github.com/2KAbhishek/tmux-tilit) - Better tiling for tmux 🪟🪓
 
+## continuous-integration 
+
+- [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - The list of continuous integration services and tools
+
 ## css 
 
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
@@ -185,6 +191,7 @@
 
 ## devops 
 
+- [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - The list of continuous integration services and tools
 - [akgold/do4ds](https://github.com/akgold/do4ds) - A book on DevOps for Data Scientists with CRC Press.
 
 ## docker 
@@ -337,6 +344,7 @@
 
 ## others 
 
+- [bodo-run/yek](https://github.com/bodo-run/yek) - A fast tool to read text-based files in a repository or directory, chunk them, and serialize them for LLM consumption.
 - [SagiPolaczek/NeuralSVG](https://github.com/SagiPolaczek/NeuralSVG) - Official implementation of NerualSVG
 - [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
