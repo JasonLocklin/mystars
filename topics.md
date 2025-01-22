@@ -377,7 +377,6 @@
 - [shbhrsaha/typewriter](https://github.com/shbhrsaha/typewriter) - Distraction-free writing for Amazon Kindle
 - [yaronn/wopr](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics
 - [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
-- [vasanthv/webtag](https://github.com/vasanthv/webtag) - A free & open source online bookmarking tool
 - [mullvad/encrypted-dns-profiles](https://github.com/mullvad/encrypted-dns-profiles) - macOS and iOS profiles to configure our DNS over TLS and DNS over HTTPS service. Can be applied with human interaction, or via MDM.
 - [posit-dev/r-shinylive](https://github.com/posit-dev/r-shinylive) - 
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
