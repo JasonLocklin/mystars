@@ -131,7 +131,6 @@
 - [shbhrsaha/typewriter](https://github.com/shbhrsaha/typewriter) - Distraction-free writing for Amazon Kindle
 - [hack-chat/main](https://github.com/hack-chat/main) - a minimal, distraction-free chat application
 - [yaronn/wopr](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics
-- [vasanthv/webtag](https://github.com/vasanthv/webtag) - A free & open source online bookmarking tool
 - [owncloud/gallery](https://github.com/owncloud/gallery) - :sunrise: Gallery app for ownCloud, which includes previews for all supported media files
 - [dieulot/instantclick](https://github.com/dieulot/instantclick) - InstantClick makes following links in your website instant.
 - [zotero/translators](https://github.com/zotero/translators) - Zotero Translators
