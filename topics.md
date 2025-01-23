@@ -309,6 +309,7 @@
 
 ## markdown 
 
+- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM for the LSP
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [surveydown-dev/surveydown](https://github.com/surveydown-dev/surveydown) - Markdown-Based Surveys Using R, Quarto, Shiny, and PostgreSQL
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
@@ -504,6 +505,7 @@
 
 ## rust 
 
+- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM for the LSP
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [py2many/py2many](https://github.com/py2many/py2many) - Transpiler of Python to many other languages
 - [ynuwenhof/koblas](https://github.com/ynuwenhof/koblas) - Lightweight SOCKS5 proxy server
