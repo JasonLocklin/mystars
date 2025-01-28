@@ -67,7 +67,7 @@
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [rigon/qmmp-plugin-youtube](https://github.com/rigon/qmmp-plugin-youtube) - Plugin for Qmmp (Qt-based Multimedia Player) to search and play musics directly from YouTube.
-- [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based b
+- [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based 
 - [myzinsky/CloudLogCatQt](https://github.com/myzinsky/CloudLogCatQt) - Qt app (Linux, Windows, Mac) for providing CAT support for Cloudlog http://www.cloudlog.co.uk/
 - [aicodix/modem](https://github.com/aicodix/modem) - Simple OFDM modem for transceiving datagrams
 - [aicodix/rattlegram](https://github.com/aicodix/rattlegram) - Transceive UTF-8 text messages with up to 170 bytes over audio in about a second!
