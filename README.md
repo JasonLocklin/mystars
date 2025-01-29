@@ -287,6 +287,8 @@
 
 ## TeX 
 
+- [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
+- [swcarpentry/good-enough-practices-in-scientific-computing](https://github.com/swcarpentry/good-enough-practices-in-scientific-computing) - Minimalist alternatives to "best practices" paper
 - [M17-Project/M17_spec](https://github.com/M17-Project/M17_spec) - M17 standard specification
 - [xenoxaos/CW-Refcard](https://github.com/xenoxaos/CW-Refcard) - A CW Cheat Sheet also known as Refcard.
 - [tomfaulkenberry/bayesMCLS](https://github.com/tomfaulkenberry/bayesMCLS) - Materials for my Bayesian statistics workshop at MCLS 2019
@@ -294,6 +296,7 @@
 
 ## TypeScript 
 
+- [sawhney17/logseq-schrodinger](https://github.com/sawhney17/logseq-schrodinger) - A plugin to export pages in Logseq to Hugo.
 - [FormBee/FormBee](https://github.com/FormBee/FormBee) - The open-source form backend for data privacy conscious developers.
 - [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
 - [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2) - A fast directory-first photo gallery website, with rich UI,  optimized for running on low resource servers (especially on raspberry pi)
