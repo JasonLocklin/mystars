@@ -360,6 +360,7 @@
 
 ## others 
 
+- [posit-dev/positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
 - [sawhney17/logseq-schrodinger](https://github.com/sawhney17/logseq-schrodinger) - A plugin to export pages in Logseq to Hugo.
 - [swcarpentry/good-enough-practices-in-scientific-computing](https://github.com/swcarpentry/good-enough-practices-in-scientific-computing) - Minimalist alternatives to "best practices" paper
 - [unconed/TermKit](https://github.com/unconed/TermKit) - Experimental Terminal platform built on WebKit + node.js. Currently only for Mac and Windows, though the prototype works 90% in any WebKit browser.
