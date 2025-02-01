@@ -34,6 +34,8 @@
 - [electron](#electron)
 - [express](#express)
 - [finance](#finance)
+- [flutter](#flutter)
+- [flutter-apps](#flutter-apps)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -171,6 +173,7 @@
 
 ## dart 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [py2many/py2many](https://github.com/py2many/py2many) - Transpiler of Python to many other languages
 
 ## data 
@@ -225,6 +228,14 @@
 ## finance 
 
 - [siddhantac/puffin](https://github.com/siddhantac/puffin) - A beautiful terminal dashboard for hledger 💰
+
+## flutter 
+
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+
+## flutter-apps 
+
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
 ## git 
 
@@ -367,6 +378,7 @@
 
 ## others 
 
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [posit-dev/positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
 - [sawhney17/logseq-schrodinger](https://github.com/sawhney17/logseq-schrodinger) - A plugin to export pages in Logseq to Hugo.
 - [swcarpentry/good-enough-practices-in-scientific-computing](https://github.com/swcarpentry/good-enough-practices-in-scientific-computing) - Minimalist alternatives to "best practices" paper
