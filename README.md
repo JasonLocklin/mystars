@@ -10,6 +10,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Dart](#dart)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -81,6 +82,10 @@
 ## CSS 
 
 - [zsoltika/omnivore2epub-py](https://github.com/zsoltika/omnivore2epub-py) - A simple python script to convert articles save to Omnivore.app as EPUB
+
+## Dart 
+
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
 ## Go 
 
@@ -259,6 +264,7 @@
 
 ## Shell 
 
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [2KAbhishek/tmux-tilit](https://github.com/2KAbhishek/tmux-tilit) - Better tiling for tmux 🪟🪓
 - [zsoltika/omnivore-calibre-recipe](https://github.com/zsoltika/omnivore-calibre-recipe) - a Calibre recipe to get saved articles from Omnivore.app in a nice ebook format
