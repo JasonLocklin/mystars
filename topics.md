@@ -510,6 +510,7 @@
 
 ## python 
 
+- [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
 - [akgold/do4ds](https://github.com/akgold/do4ds) - A book on DevOps for Data Scientists with CRC Press.
 - [py2many/py2many](https://github.com/py2many/py2many) - Transpiler of Python to many other languages
 - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
