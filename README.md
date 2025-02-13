@@ -65,6 +65,7 @@
 
 ## C++ 
 
+- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [rigon/qmmp-plugin-youtube](https://github.com/rigon/qmmp-plugin-youtube) - Plugin for Qmmp (Qt-based Multimedia Player) to search and play musics directly from YouTube.
@@ -206,6 +207,7 @@
 
 ## Python 
 
+- [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
 - [akgold/do4ds](https://github.com/akgold/do4ds) - A book on DevOps for Data Scientists with CRC Press.
 - [py2many/py2many](https://github.com/py2many/py2many) - Transpiler of Python to many other languages
