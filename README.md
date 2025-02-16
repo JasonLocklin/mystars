@@ -133,6 +133,7 @@
 
 ## JavaScript 
 
+- [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
 - [unconed/TermKit](https://github.com/unconed/TermKit) - Experimental Terminal platform built on WebKit + node.js. Currently only for Mac and Windows, though the prototype works 90% in any WebKit browser.
 - [dosyago/dn](https://github.com/dosyago/dn) - 💾 dn - offline full-text search and archiving for your Chromium-based browser.
 - [ssshake/pi-uhf-tv-station](https://github.com/ssshake/pi-uhf-tv-station) - Build your own UHF TV stations using a Raspberry Pi
@@ -210,7 +211,6 @@
 ## Python 
 
 - [fosslinux/fmt-md-table](https://github.com/fosslinux/fmt-md-table) - Format markdown tables with spaces automagically so you don't have to!
-- [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
 - [akgold/do4ds](https://github.com/akgold/do4ds) - A book on DevOps for Data Scientists with CRC Press.
 - [py2many/py2many](https://github.com/py2many/py2many) - Transpiler of Python to many other languages
