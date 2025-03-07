@@ -119,7 +119,6 @@
 
 - [grousell/Intro-RMarkdown](https://github.com/grousell/Intro-RMarkdown) - Introduction to RMarkdown
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 - [VA3HDL/hamdashboard](https://github.com/VA3HDL/hamdashboard) - Customizable Dashboard for Ham Radio
 - [tinyworldmap/tiny-world-map](https://github.com/tinyworldmap/tiny-world-map) - tinyworldmap is a tiny world map for offline-first and low-bandwidth web apps
@@ -223,6 +222,7 @@
 - [fosslinux/fmt-md-table](https://github.com/fosslinux/fmt-md-table) - Format markdown tables with spaces automagically so you don't have to!
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
 - [akgold/do4ds](https://github.com/akgold/do4ds) - A book on DevOps for Data Scientists with CRC Press.
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [py2many/py2many](https://github.com/py2many/py2many) - Transpiler of Python to many other languages
 - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
 - [imbue-ai/jupyter_ascending](https://github.com/imbue-ai/jupyter_ascending) - Ascend your Jupyter Notebook usage
