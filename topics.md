@@ -85,6 +85,7 @@
 - [swiftui](#swiftui)
 - [terminal](#terminal)
 - [termux](#termux)
+- [text-to-speech](#text-to-speech)
 - [vim](#vim)
 - [vpn](#vpn)
 - [web](#web)
@@ -401,6 +402,7 @@
 
 ## others 
 
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [mmagnus/Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin) - 📚 Modified version of the Calibre plugin for Pocket. Now, you get your articles organized by your Pocket tags, and more!
 - [BHSPitMonkey/news2reader](https://github.com/BHSPitMonkey/news2reader) - Serve online articles directly to your e-reader using OPDS
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
@@ -428,7 +430,6 @@
 - [akissinger/dodo](https://github.com/akissinger/dodo) - A graphical, hackable email client based on notmuch
 - [gauteh/lieer](https://github.com/gauteh/lieer) - Fast email-fetching, sending, and two-way tag synchronization between notmuch and GMail
 - [VA3HDL/hamdashboard](https://github.com/VA3HDL/hamdashboard) - Customizable Dashboard for Ham Radio
-- [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [kstenerud/safe-encoding](https://github.com/kstenerud/safe-encoding) - Binary-to-text encoding that is safe to pass through modern text processors
 - [ssshake/retro-computing-internet-resources](https://github.com/ssshake/retro-computing-internet-resources) - A list of the various projects to get vintage computers connected to the internet
 - [ssshake/pi-uhf-tv-station](https://github.com/ssshake/pi-uhf-tv-station) - Build your own UHF TV stations using a Raspberry Pi
@@ -634,6 +635,10 @@
 ## termux 
 
 - [CharlesChiuGit/Logseq-Git-Sync-101](https://github.com/CharlesChiuGit/Logseq-Git-Sync-101) - This repo aims to help Logseq users to sync their data with Git and GitHub.
+
+## text-to-speech 
+
+- [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 
 ## vim 
 
