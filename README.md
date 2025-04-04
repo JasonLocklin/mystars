@@ -268,6 +268,7 @@
 
 ## Rust 
 
+- [ItsEthra/typst-live](https://github.com/ItsEthra/typst-live) - Hot reloading for your typst files
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
