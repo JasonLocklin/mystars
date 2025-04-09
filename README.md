@@ -252,7 +252,7 @@
 
 ## R 
 
-- [surveydown-dev/surveydown](https://github.com/surveydown-dev/surveydown) - Markdown-Based Surveys Using R, Quarto, Shiny, and PostgreSQL
+- [surveydown-dev/surveydown](https://github.com/surveydown-dev/surveydown) - Markdown-Based, Programmable Surveys Using R, Quarto, Shiny, and PostgreSQL
 - [mnr/rpigpior](https://github.com/mnr/rpigpior) - R for Raspberry Pi with GPIO support
 - [posit-dev/r-shinylive](https://github.com/posit-dev/r-shinylive) - 
 - [priism-center/thinkCausal_dev](https://github.com/priism-center/thinkCausal_dev) - Point-and-click bartCause analysis and causal inference education
