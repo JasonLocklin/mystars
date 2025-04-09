@@ -372,7 +372,7 @@
 
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM for the LSP
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [surveydown-dev/surveydown](https://github.com/surveydown-dev/surveydown) - Markdown-Based Surveys Using R, Quarto, Shiny, and PostgreSQL
+- [surveydown-dev/surveydown](https://github.com/surveydown-dev/surveydown) - Markdown-Based, Programmable Surveys Using R, Quarto, Shiny, and PostgreSQL
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
 ## monitoring 
@@ -539,7 +539,7 @@
 
 ## postgresql 
 
-- [surveydown-dev/surveydown](https://github.com/surveydown-dev/surveydown) - Markdown-Based Surveys Using R, Quarto, Shiny, and PostgreSQL
+- [surveydown-dev/surveydown](https://github.com/surveydown-dev/surveydown) - Markdown-Based, Programmable Surveys Using R, Quarto, Shiny, and PostgreSQL
 
 ## privacy 
 
@@ -564,7 +564,7 @@
 ## r 
 
 - [akgold/do4ds](https://github.com/akgold/do4ds) - A book on DevOps for Data Scientists with CRC Press.
-- [surveydown-dev/surveydown](https://github.com/surveydown-dev/surveydown) - Markdown-Based Surveys Using R, Quarto, Shiny, and PostgreSQL
+- [surveydown-dev/surveydown](https://github.com/surveydown-dev/surveydown) - Markdown-Based, Programmable Surveys Using R, Quarto, Shiny, and PostgreSQL
 
 ## raspberry-pi 
 
