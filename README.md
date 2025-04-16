@@ -170,10 +170,12 @@
 
 ## Lua 
 
+- [flip-rossi/readeck.koplugin](https://github.com/flip-rossi/readeck.koplugin) - 
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 
 ## Others 
 
+- [FreeBSDFoundation/proj-laptop](https://github.com/FreeBSDFoundation/proj-laptop) - The FreeBSD Foundation's Laptop Support and Usability Improvements project aims to deliver a package of improved or new FreeBSD functionality that, together, will ensure that it runs well “out of the 
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - The list of continuous integration services and tools
 - [mcanouil/awesome-quarto](https://github.com/mcanouil/awesome-quarto) - A curated list of Quarto talks, tools, examples & articles! Contributions welcome!
 - [zefanja/awesome-opensource-school](https://github.com/zefanja/awesome-opensource-school) - awesome free and open source software (FOSS) for schools
@@ -202,6 +204,7 @@
 
 ## Perl 
 
+- [hadley/ggplot2-book](https://github.com/hadley/ggplot2-book) - ggplot2: elegant graphics for data analysis
 - [cruvolo/qrzxmlemu](https://github.com/cruvolo/qrzxmlemu) - qrz XML emulator
 - [arodland/swr](https://github.com/arodland/swr) - 
 - [molo1134/qrmbot](https://github.com/molo1134/qrmbot) - qrm ham radio IRC bot and associated scripts
@@ -252,6 +255,7 @@
 
 ## R 
 
+- [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) - An implementation of the Grammar of Graphics in R
 - [surveydown-dev/surveydown](https://github.com/surveydown-dev/surveydown) - Markdown-Based, Programmable Surveys Using R, Quarto, Shiny, and PostgreSQL
 - [mnr/rpigpior](https://github.com/mnr/rpigpior) - R for Raspberry Pi with GPIO support
 - [posit-dev/r-shinylive](https://github.com/posit-dev/r-shinylive) - 
