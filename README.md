@@ -45,6 +45,7 @@
 
 ## C 
 
+- [Mr-Bossman/pi-pico2-linux](https://github.com/Mr-Bossman/pi-pico2-linux) - RISC-V linux on the raspberry pi pico 2
 - [skuep/AIOC](https://github.com/skuep/AIOC) - Ham Radio All-in-one-Cable
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [kstenerud/safe-encoding](https://github.com/kstenerud/safe-encoding) - Binary-to-text encoding that is safe to pass through modern text processors
