@@ -426,6 +426,7 @@
 
 ## others 
 
+- [codingmoh/open-codex](https://github.com/codingmoh/open-codex) - Fully open-source command-line AI assistant inspired by OpenAI Codex, supporting local language models.
 - [FreeBSDFoundation/proj-laptop](https://github.com/FreeBSDFoundation/proj-laptop) - The FreeBSD Foundation's Laptop Support and Usability Improvements project aims to deliver a package of improved or new FreeBSD functionality that, together, will ensure that it runs well “out of the 
 - [hadley/ggplot2-book](https://github.com/hadley/ggplot2-book) - ggplot2: elegant graphics for data analysis
 - [flip-rossi/readeck.koplugin](https://github.com/flip-rossi/readeck.koplugin) - A KOReader plugin to add integration with your Readeck instance.
