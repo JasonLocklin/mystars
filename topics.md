@@ -38,6 +38,7 @@
 - [documentation](#documentation)
 - [education](#education)
 - [electron](#electron)
+- [emacs](#emacs)
 - [express](#express)
 - [finance](#finance)
 - [flutter](#flutter)
@@ -261,6 +262,10 @@
 
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 
+## emacs 
+
+- [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
+
 ## express 
 
 - [FormBee/FormBee](https://github.com/FormBee/FormBee) - The open-source form backend for data privacy conscious developers.
@@ -388,6 +393,7 @@
 
 ## markdown 
 
+- [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [surveydown-dev/surveydown](https://github.com/surveydown-dev/surveydown) - Markdown-Based, Programmable Surveys Using R, Quarto, Shiny, and PostgreSQL
@@ -403,6 +409,7 @@
 
 ## neovim 
 
+- [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 - [LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim) - A Vim-like configuration for Helix
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -426,13 +433,14 @@
 
 ## others 
 
+- [mrkline/modern-latex](https://github.com/mrkline/modern-latex) - A short guide to LaTeX that avoids legacy cruft.
 - [r-lib/tree-sitter-r](https://github.com/r-lib/tree-sitter-r) - 
 - [codingmoh/open-codex](https://github.com/codingmoh/open-codex) - Fully open-source command-line AI assistant inspired by OpenAI Codex, supporting local language models.
 - [FreeBSDFoundation/proj-laptop](https://github.com/FreeBSDFoundation/proj-laptop) - The FreeBSD Foundation's Laptop Support and Usability Improvements project aims to deliver a package of improved or new FreeBSD functionality that, together, will ensure that it runs well “out of the 
 - [hadley/ggplot2-book](https://github.com/hadley/ggplot2-book) - ggplot2: elegant graphics for data analysis
 - [flip-rossi/readeck.koplugin](https://github.com/flip-rossi/readeck.koplugin) - A KOReader plugin to add integration with your Readeck instance.
 - [ItsEthra/typst-live](https://github.com/ItsEthra/typst-live) - Hot reloading for your typst files
-- [dwmkerr/terminal-ai](https://github.com/dwmkerr/terminal-ai) - Effortless AI in the shell. Maintain your flow and be more effective.
+- [dwmkerr/terminal-ai](https://github.com/dwmkerr/terminal-ai) - Effortless AI in the shell. Maintain your flow and be more effective. Supports OpenAI, Gemini, Claude, Ollama, MSTY and many more.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [mmagnus/Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin) - 📚 Modified version of the Calibre plugin for Pocket. Now, you get your articles organized by your Pocket tags, and more!
 - [BHSPitMonkey/news2reader](https://github.com/BHSPitMonkey/news2reader) - Serve online articles directly to your e-reader using OPDS
