@@ -12,6 +12,7 @@
 - [CSS](#css)
 - [Dart](#dart)
 - [Emacs Lisp](#emacs-lisp)
+- [F#](#f#)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -95,6 +96,10 @@
 ## Emacs Lisp 
 
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
+
+## F# # 
+
+- [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 
 ## Go 
 
@@ -327,6 +332,7 @@
 
 ## TeX 
 
+- [mrkline/modern-latex](https://github.com/mrkline/modern-latex) - A short guide to LaTeX that avoids legacy cruft.
 - [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [swcarpentry/good-enough-practices-in-scientific-computing](https://github.com/swcarpentry/good-enough-practices-in-scientific-computing) - Minimalist alternatives to "best practices" paper
 - [M17-Project/M17_spec](https://github.com/M17-Project/M17_spec) - M17 standard specification
@@ -336,7 +342,7 @@
 
 ## TypeScript 
 
-- [dwmkerr/terminal-ai](https://github.com/dwmkerr/terminal-ai) - Effortless AI in the shell. Maintain your flow and be more effective.
+- [dwmkerr/terminal-ai](https://github.com/dwmkerr/terminal-ai) - Effortless AI in the shell. Maintain your flow and be more effective. Supports OpenAI, Gemini, Claude, Ollama, MSTY and many more.
 - [BHSPitMonkey/news2reader](https://github.com/BHSPitMonkey/news2reader) - Serve online articles directly to your e-reader using OPDS
 - [posit-dev/positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
 - [sawhney17/logseq-schrodinger](https://github.com/sawhney17/logseq-schrodinger) - A plugin to export pages in Logseq to Hugo.
