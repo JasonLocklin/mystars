@@ -90,6 +90,7 @@
 - [terminal](#terminal)
 - [termux](#termux)
 - [text-to-speech](#text-to-speech)
+- [ui](#ui)
 - [vim](#vim)
 - [vpn](#vpn)
 - [web](#web)
@@ -464,7 +465,6 @@
 - [FreshRSS/Extensions](https://github.com/FreshRSS/Extensions) - A repository containing all the official FreshRSS extensions
 - [imbue-ai/jupyter_ascending](https://github.com/imbue-ai/jupyter_ascending) - Ascend your Jupyter Notebook usage
 - [mk270/gemfeed2atom](https://github.com/mk270/gemfeed2atom) - Make an Atom.xml file from a Gemini post feed
-- [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
 - [DO-SAY-GO/dn](https://github.com/DO-SAY-GO/dn) - 💾 dn - offline full-text search and archiving for your Chromium-based browser.
 - [akissinger/dodo](https://github.com/akissinger/dodo) - A graphical, hackable email client based on notmuch
 - [gauteh/lieer](https://github.com/gauteh/lieer) - Fast email-fetching, sending, and two-way tag synchronization between notmuch and GMail
@@ -685,6 +685,10 @@
 ## text-to-speech 
 
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
+
+## ui 
+
+- [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
 
 ## vim 
 
