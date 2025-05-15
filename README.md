@@ -69,6 +69,7 @@
 
 ## C++ 
 
+- [ericjenott/Evertop](https://github.com/ericjenott/Evertop) - E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
@@ -124,6 +125,7 @@
 
 ## HTML 
 
+- [Joedmin/xExtension-readeck-button](https://github.com/Joedmin/xExtension-readeck-button) - Add FreshRSS articles to Readeck with one simple button click or a keyboard shortcut.
 - [grousell/Intro-RMarkdown](https://github.com/grousell/Intro-RMarkdown) - Introduction to RMarkdown
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
@@ -145,6 +147,7 @@
 
 ## JavaScript 
 
+- [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
 - [unconed/TermKit](https://github.com/unconed/TermKit) - Experimental Terminal platform built on WebKit + node.js. Currently only for Mac and Windows, though the prototype works 90% in any WebKit browser.
 - [DO-SAY-GO/dn](https://github.com/DO-SAY-GO/dn) - 💾 dn - offline full-text search and archiving for your Chromium-based browser.
@@ -181,6 +184,7 @@
 
 ## Others 
 
+- [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
 - [LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim) - A Vim-like configuration for Helix
 - [FreeBSDFoundation/proj-laptop](https://github.com/FreeBSDFoundation/proj-laptop) - The FreeBSD Foundation's Laptop Support and Usability Improvements project aims to deliver a package of improved or new FreeBSD functionality that, together, will ensure that it runs well “out of the 
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - The list of continuous integration services and tools
@@ -226,6 +230,7 @@
 
 ## Python 
 
+- [draga79/NotiMail](https://github.com/draga79/NotiMail) - Server-side email notification manager using several push providers for real-time alerts. Conserve mobile battery without compromising on immediacy.
 - [codingmoh/open-codex](https://github.com/codingmoh/open-codex) - Fully open-source command-line AI assistant inspired by OpenAI Codex, supporting local language models.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
@@ -282,6 +287,7 @@
 
 ## Rust 
 
+- [justlark/gempost](https://github.com/justlark/gempost) - A simple static site generator for creating a blog on the Gemini protocol
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [ItsEthra/typst-live](https://github.com/ItsEthra/typst-live) - Hot reloading for your typst files
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
