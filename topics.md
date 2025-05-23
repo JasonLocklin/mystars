@@ -39,6 +39,7 @@
 - [education](#education)
 - [electron](#electron)
 - [emacs](#emacs)
+- [emulator](#emulator)
 - [express](#express)
 - [finance](#finance)
 - [flutter](#flutter)
@@ -268,6 +269,10 @@
 ## emacs 
 
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
+
+## emulator 
+
+- [c1570/Connomore64](https://github.com/c1570/Connomore64) - Realtime cycle exact emulation of the C64 using multiple microcontrollers in parallel.
 
 ## express 
 
