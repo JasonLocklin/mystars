@@ -69,6 +69,7 @@
 
 ## C++ 
 
+- [d99kris/nmail](https://github.com/d99kris/nmail) - Terminal-based email client for Linux and macOS
 - [Rhizomatica/mercury](https://github.com/Rhizomatica/mercury) - Mercury is a configurable open-source software-defined modem.
 - [ericjenott/Evertop](https://github.com/ericjenott/Evertop) - E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
@@ -185,6 +186,7 @@
 
 ## Others 
 
+- [AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker](https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker) - Companion PCB's to add ATU, internal battery with charger and a speaker to QRP Labs QMX+ transceiver
 - [c1570/Connomore64](https://github.com/c1570/Connomore64) - Realtime cycle exact emulation of the C64 using multiple microcontrollers in parallel.
 - [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
 - [LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim) - A Vim-like configuration for Helix
@@ -232,6 +234,7 @@
 
 ## Python 
 
+- [akissinger/dodo](https://github.com/akissinger/dodo) - A graphical, hackable email client based on notmuch
 - [draga79/NotiMail](https://github.com/draga79/NotiMail) - Server-side email notification manager using several push providers for real-time alerts. Conserve mobile battery without compromising on immediacy.
 - [codingmoh/open-codex](https://github.com/codingmoh/open-codex) - Fully open-source command-line AI assistant inspired by OpenAI Codex, supporting local language models.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
@@ -247,7 +250,6 @@
 - [py2many/py2many](https://github.com/py2many/py2many) - Transpiler of Python to many other languages
 - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
 - [imbue-ai/jupyter_ascending](https://github.com/imbue-ai/jupyter_ascending) - Ascend your Jupyter Notebook usage
-- [akissinger/dodo](https://github.com/akissinger/dodo) - A graphical, hackable email client based on notmuch
 - [gauteh/lieer](https://github.com/gauteh/lieer) - Fast email-fetching, sending, and two-way tag synchronization between notmuch and GMail
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
 - [markqvist/LXMF](https://github.com/markqvist/LXMF) - A universal, distributed and secure messaging protocol for Reticulum
@@ -310,6 +312,7 @@
 
 ## Shell 
 
+- [rafo/aerc-vim](https://github.com/rafo/aerc-vim) - Vim-Like Keybindings for Aerc. Aerc is an exceptional terminal-based email client known for its efficiency and simplicity.
 - [winblues/blue95](https://github.com/winblues/blue95) - A desktop for your childhood home's computer room
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
@@ -341,7 +344,7 @@
 ## TeX 
 
 - [mrkline/modern-latex](https://github.com/mrkline/modern-latex) - A short guide to LaTeX that avoids legacy cruft.
-- [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
+- [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way) - Book repository for The Turing Way: a how to guide for reproducible, ethical and collaborative data science
 - [swcarpentry/good-enough-practices-in-scientific-computing](https://github.com/swcarpentry/good-enough-practices-in-scientific-computing) - Minimalist alternatives to "best practices" paper
 - [M17-Project/M17_spec](https://github.com/M17-Project/M17_spec) - M17 standard specification
 - [xenoxaos/CW-Refcard](https://github.com/xenoxaos/CW-Refcard) - A CW Cheat Sheet also known as Refcard.
