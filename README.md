@@ -149,6 +149,7 @@
 
 ## JavaScript 
 
+- [cheeaun/gh-starred-repos-feed](https://github.com/cheeaun/gh-starred-repos-feed) - A Cloudflare Worker that returns the starred repos of a GitHub user as a RSS feed
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
 - [unconed/TermKit](https://github.com/unconed/TermKit) - Experimental Terminal platform built on WebKit + node.js. Currently only for Mac and Windows, though the prototype works 90% in any WebKit browser.
@@ -181,7 +182,7 @@
 
 ## Lua 
 
-- [flip-rossi/readeck.koplugin](https://github.com/flip-rossi/readeck.koplugin) - A KOReader plugin to add integration with your Readeck instance.
+- [flip-rossi/readeck.koplugin](https://github.com/flip-rossi/readeck.koplugin) - An unofficial KOReader plugin to add integration with your Readeck instance.
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 
 ## Others 
@@ -234,6 +235,7 @@
 
 ## Python 
 
+- [artur-shaik/wallabag-client](https://github.com/artur-shaik/wallabag-client) - Command line client for the self hosted read-it-later app Wallabag
 - [akissinger/dodo](https://github.com/akissinger/dodo) - A graphical, hackable email client based on notmuch
 - [draga79/NotiMail](https://github.com/draga79/NotiMail) - Server-side email notification manager using several push providers for real-time alerts. Conserve mobile battery without compromising on immediacy.
 - [codingmoh/open-codex](https://github.com/codingmoh/open-codex) - Fully open-source command-line AI assistant inspired by OpenAI Codex, supporting local language models.
@@ -353,6 +355,7 @@
 
 ## TypeScript 
 
+- [hnykda/logseq-wallabag](https://github.com/hnykda/logseq-wallabag) - A logseq plugin to sync wallabag content to logseq
 - [dwmkerr/terminal-ai](https://github.com/dwmkerr/terminal-ai) - Effortless AI in the shell. Maintain your flow and be more effective. Supports OpenAI, Gemini, Claude, Ollama, MSTY and many more.
 - [BHSPitMonkey/news2reader](https://github.com/BHSPitMonkey/news2reader) - Serve online articles directly to your e-reader using OPDS
 - [posit-dev/positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
