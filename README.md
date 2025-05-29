@@ -135,7 +135,6 @@
 - [tinyworldmap/tiny-world-map](https://github.com/tinyworldmap/tiny-world-map) - tinyworldmap is a tiny world map for offline-first and low-bandwidth web apps
 - [HB9UF/ElPiHat](https://github.com/HB9UF/ElPiHat) - EchoLink Hat for Raspberry Pi
 - [M17-Project/TR-9](https://github.com/M17-Project/TR-9) - TR-9 - M17 protocol compatible handheld - schematics, PCB design files, BOM.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## Haskell 
 
@@ -268,6 +267,7 @@
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [Alcampopiano/EA_algorithm](https://github.com/Alcampopiano/EA_algorithm) - optimization method for allocating finite resources
 - [etamme/cwkeyer](https://github.com/etamme/cwkeyer) - python based serial cw keyer
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [jshrake/ddg](https://github.com/jshrake/ddg) - DuckDuckGo zero-click info API for your command-line
 - [ipython/ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 - [smathot/gedit-plugin-ipython](https://github.com/smathot/gedit-plugin-ipython) - Gedit IPython plugin
