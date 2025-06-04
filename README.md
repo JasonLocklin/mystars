@@ -275,6 +275,7 @@
 
 ## R 
 
+- [grousell/alchemeR](https://github.com/grousell/alchemeR) - alchemeR
 - [r-lib/tree-sitter-r](https://github.com/r-lib/tree-sitter-r) - 
 - [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) - An implementation of the Grammar of Graphics in R
 - [surveydown-dev/surveydown](https://github.com/surveydown-dev/surveydown) - Markdown-Based, Programmable Surveys Using R, Quarto, Shiny, and PostgreSQL
