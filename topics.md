@@ -468,7 +468,7 @@
 - [ericjenott/Evertop](https://github.com/ericjenott/Evertop) - E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life.
 - [draga79/NotiMail](https://github.com/draga79/NotiMail) - Server-side email notification manager using several push providers for real-time alerts. Conserve mobile battery without compromising on immediacy.
 - [mrkline/modern-latex](https://github.com/mrkline/modern-latex) - A short guide to LaTeX that avoids legacy cruft.
-- [r-lib/tree-sitter-r](https://github.com/r-lib/tree-sitter-r) - 
+- [r-lib/tree-sitter-r](https://github.com/r-lib/tree-sitter-r) - Tree-sitter grammar for R
 - [codingmoh/open-codex](https://github.com/codingmoh/open-codex) - Fully open-source command-line AI assistant inspired by OpenAI Codex, supporting local language models.
 - [FreeBSDFoundation/proj-laptop](https://github.com/FreeBSDFoundation/proj-laptop) - The FreeBSD Foundation's Laptop Support and Usability Improvements project aims to deliver a package of improved or new FreeBSD functionality that, together, will ensure that it runs well “out of the 
 - [hadley/ggplot2-book](https://github.com/hadley/ggplot2-book) - ggplot2: elegant graphics for data analysis
