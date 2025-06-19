@@ -133,7 +133,6 @@
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 - [VA3HDL/hamdashboard](https://github.com/VA3HDL/hamdashboard) - Customizable Dashboard for Ham Radio
 - [tinyworldmap/tiny-world-map](https://github.com/tinyworldmap/tiny-world-map) - tinyworldmap is a tiny world map for offline-first and low-bandwidth web apps
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [HB9UF/ElPiHat](https://github.com/HB9UF/ElPiHat) - EchoLink Hat for Raspberry Pi
 - [M17-Project/TR-9](https://github.com/M17-Project/TR-9) - TR-9 - M17 protocol compatible handheld - schematics, PCB design files, BOM.
 
@@ -161,6 +160,7 @@
 - [shbhrsaha/typewriter](https://github.com/shbhrsaha/typewriter) - Distraction-free writing for Amazon Kindle
 - [hack-chat/main](https://github.com/hack-chat/main) - a minimal, distraction-free chat application
 - [yaronn/wopr](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [owncloud/gallery](https://github.com/owncloud/gallery) - :sunrise: Gallery app for ownCloud, which includes previews for all supported media files
 - [dieulot/instantclick](https://github.com/dieulot/instantclick) - InstantClick makes following links in your website instant.
 - [zotero/translators](https://github.com/zotero/translators) - Zotero Translators
