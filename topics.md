@@ -462,6 +462,7 @@
 
 ## others 
 
+- [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [grousell/alchemeR](https://github.com/grousell/alchemeR) - alchemeR
 - [hnykda/logseq-wallabag](https://github.com/hnykda/logseq-wallabag) - A logseq plugin to sync wallabag content to logseq
 - [akissinger/dodo](https://github.com/akissinger/dodo) - A graphical, hackable email client based on notmuch
