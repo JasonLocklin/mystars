@@ -148,6 +148,7 @@
 
 ## JavaScript 
 
+- [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [cheeaun/gh-starred-repos-feed](https://github.com/cheeaun/gh-starred-repos-feed) - A Cloudflare Worker that returns the starred repos of a GitHub user as a RSS feed
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
