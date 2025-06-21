@@ -64,6 +64,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [mastodon](#mastodon)
 - [monitoring](#monitoring)
 - [music](#music)
 - [neovim](#neovim)
@@ -426,6 +427,10 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [surveydown-dev/surveydown](https://github.com/surveydown-dev/surveydown) - Markdown-Based, Programmable Surveys Using R, Quarto, Shiny, and PostgreSQL
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
+
+## mastodon 
+
+- [RasmusLindroth/tut](https://github.com/RasmusLindroth/tut) - TUI for Mastodon with vim inspired keys
 
 ## monitoring 
 
