@@ -106,6 +106,7 @@
 
 ## Go 
 
+- [RasmusLindroth/tut](https://github.com/RasmusLindroth/tut) - TUI for Mastodon with vim inspired keys
 - [srvaroa/repocket](https://github.com/srvaroa/repocket) - Manage a local copy of articles saved in Pocket
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [ergochat/ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go.
