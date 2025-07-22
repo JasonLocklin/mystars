@@ -467,6 +467,7 @@
 
 ## others 
 
+- [jkaupp/tim_hortons](https://github.com/jkaupp/tim_hortons) - Scraping Tim Hortons location data for tidyweek
 - [Niehztog/freshrss-af-readability](https://github.com/Niehztog/freshrss-af-readability) - Article full text FreshRSS extension
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [grousell/alchemeR](https://github.com/grousell/alchemeR) - alchemeR
@@ -643,6 +644,7 @@
 
 ## r 
 
+- [r-lib/actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
 - [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) - An implementation of the Grammar of Graphics in R
 - [akgold/do4ds](https://github.com/akgold/do4ds) - A book on DevOps for Data Scientists with CRC Press.
 - [surveydown-dev/surveydown](https://github.com/surveydown-dev/surveydown) - Markdown-Based, Programmable Surveys Using R, Quarto, Shiny, and PostgreSQL
