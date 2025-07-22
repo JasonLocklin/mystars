@@ -279,6 +279,7 @@
 
 ## R 
 
+- [jkaupp/tim_hortons](https://github.com/jkaupp/tim_hortons) - Scraping Tim Hortons location data for tidyweek
 - [grousell/alchemeR](https://github.com/grousell/alchemeR) - alchemeR
 - [r-lib/tree-sitter-r](https://github.com/r-lib/tree-sitter-r) - Tree-sitter grammar for R
 - [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) - An implementation of the Grammar of Graphics in R
@@ -360,6 +361,7 @@
 
 ## TypeScript 
 
+- [r-lib/actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [hnykda/logseq-wallabag](https://github.com/hnykda/logseq-wallabag) - A logseq plugin to sync wallabag content to logseq
 - [dwmkerr/terminal-ai](https://github.com/dwmkerr/terminal-ai) - Effortless AI in the shell. Maintain your flow and be more effective. Supports OpenAI, Gemini, Claude, Ollama, MSTY and many more.
