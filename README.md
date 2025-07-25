@@ -361,6 +361,7 @@
 
 ## TypeScript 
 
+- [voidauth/voidauth](https://github.com/voidauth/voidauth) - An Easy to Use and Self-Host Single Sign-On Provider 🐈‍⬛🔒
 - [r-lib/actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [hnykda/logseq-wallabag](https://github.com/hnykda/logseq-wallabag) - A logseq plugin to sync wallabag content to logseq
