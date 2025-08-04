@@ -363,7 +363,7 @@
 
 - [voidauth/voidauth](https://github.com/voidauth/voidauth) - An Easy to Use and Self-Host Single Sign-On Provider 🐈‍⬛🔒
 - [r-lib/actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [hnykda/logseq-wallabag](https://github.com/hnykda/logseq-wallabag) - A logseq plugin to sync wallabag content to logseq
 - [dwmkerr/terminal-ai](https://github.com/dwmkerr/terminal-ai) - Effortless AI in the shell. Maintain your flow and be more effective. Supports OpenAI, Gemini, Claude, Ollama, MSTY and many more.
 - [BHSPitMonkey/news2reader](https://github.com/BHSPitMonkey/news2reader) - Serve online articles directly to your e-reader using OPDS
