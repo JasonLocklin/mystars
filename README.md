@@ -239,6 +239,7 @@
 
 ## Python 
 
+- [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [artur-shaik/wallabag-client](https://github.com/artur-shaik/wallabag-client) - Command line client for the self hosted read-it-later app Wallabag
 - [akissinger/dodo](https://github.com/akissinger/dodo) - A graphical, hackable email client based on notmuch
 - [draga79/NotiMail](https://github.com/draga79/NotiMail) - Server-side email notification manager using several push providers for real-time alerts. Conserve mobile battery without compromising on immediacy.
