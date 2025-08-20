@@ -71,6 +71,7 @@
 - [neovim](#neovim)
 - [nim](#nim)
 - [nodejs](#nodejs)
+- [obsidian-md](#obsidian-md)
 - [open-source](#open-source)
 - [openai](#openai)
 - [others](#others)
@@ -465,6 +466,10 @@
 
 - [FormBee/FormBee](https://github.com/FormBee/FormBee) - The open-source form backend for data privacy conscious developers.
 - [hack-chat/main](https://github.com/hack-chat/main) - a minimal, distraction-free chat application
+
+## obsidian-md 
+
+- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
 
 ## open-source 
 
