@@ -64,6 +64,7 @@
 
 ## C# # 
 
+- [s1t5/mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration  and a dashboard.
 - [GPh83/resticterm](https://github.com/GPh83/resticterm) - multi-platform UI for restic backup software. (https://restic.net/)
 - [bjornekelund/N1MMlistener](https://github.com/bjornekelund/N1MMlistener) - Basic windows console app to listen to N1MM style UDP broadcasts
 
