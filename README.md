@@ -191,6 +191,7 @@
 
 ## Others 
 
+- [ephase/bastille_wallabag](https://github.com/ephase/bastille_wallabag) - Batille template for Wallabag
 - [todotxt/todo.txt](https://github.com/todotxt/todo.txt) - ‼️ A complete primer on the whys and hows of todo.txt.
 - [AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker](https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker) - Companion PCB's to add ATU, internal battery with charger and a speaker to QRP Labs QMX+ transceiver
 - [c1570/Connomore64](https://github.com/c1570/Connomore64) - Realtime cycle exact emulation of the C64 using multiple microcontrollers in parallel.
@@ -365,6 +366,7 @@
 
 ## TypeScript 
 
+- [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [dnlzro/horizon](https://github.com/dnlzro/horizon) - The current sky at your approximate location, rendered as a CSS gradient
 - [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe 🐈‍⬛🔒
 - [r-lib/actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
