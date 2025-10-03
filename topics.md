@@ -360,6 +360,7 @@
 
 ## hacktoberfest 
 
+- [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way) - Book repository for The Turing Way: a how to guide for reproducible, ethical and collaborative data science
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
@@ -493,6 +494,7 @@
 
 ## others 
 
+- [ephase/bastille_wallabag](https://github.com/ephase/bastille_wallabag) - Batille template for Wallabag
 - [s1t5/mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration  and a dashboard.
 - [mholt/caddy-l4](https://github.com/mholt/caddy-l4) - Layer 4 (TCP/UDP) app for Caddy
 - [todotxt/todo.txt](https://github.com/todotxt/todo.txt) - ‼️ A complete primer on the whys and hows of todo.txt.
@@ -689,6 +691,7 @@
 
 ## react 
 
+- [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [khlieng/dispatch](https://github.com/khlieng/dispatch) - Web-based IRC client in Go.
 
 ## reactjs 
