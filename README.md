@@ -20,6 +20,7 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Others](#others)
@@ -178,6 +179,10 @@
 ## Jupyter Notebook 
 
 - [rasbt/pattern_classification](https://github.com/rasbt/pattern_classification) - A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks
+
+## Just 
+
+- [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
 
 ## Kotlin 
 
