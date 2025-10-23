@@ -327,13 +327,13 @@
 ## git 
 
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
-- [CharlesChiuGit/Logseq-Git-Sync-101](https://github.com/CharlesChiuGit/Logseq-Git-Sync-101) - This repo aims to help Logseq users to sync their data with Git and GitHub.
+- [charliie-dev/Logseq-Git-Sync-101](https://github.com/charliie-dev/Logseq-Git-Sync-101) - This repo aims to help Logseq users to sync their data with Git and GitHub.
 
 ## github 
 
 - [cheeaun/gh-starred-repos-feed](https://github.com/cheeaun/gh-starred-repos-feed) - A Cloudflare Worker that returns the starred repos of a GitHub user as a RSS feed
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
-- [CharlesChiuGit/Logseq-Git-Sync-101](https://github.com/CharlesChiuGit/Logseq-Git-Sync-101) - This repo aims to help Logseq users to sync their data with Git and GitHub.
+- [charliie-dev/Logseq-Git-Sync-101](https://github.com/charliie-dev/Logseq-Git-Sync-101) - This repo aims to help Logseq users to sync their data with Git and GitHub.
 
 ## go 
 
@@ -771,7 +771,7 @@
 
 ## termux 
 
-- [CharlesChiuGit/Logseq-Git-Sync-101](https://github.com/CharlesChiuGit/Logseq-Git-Sync-101) - This repo aims to help Logseq users to sync their data with Git and GitHub.
+- [charliie-dev/Logseq-Git-Sync-101](https://github.com/charliie-dev/Logseq-Git-Sync-101) - This repo aims to help Logseq users to sync their data with Git and GitHub.
 
 ## text-to-speech 
 
