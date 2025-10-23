@@ -337,7 +337,7 @@
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [2KAbhishek/tmux-tilit](https://github.com/2KAbhishek/tmux-tilit) - Better tiling for tmux 🪟🪓
 - [zsoltika/omnivore-calibre-recipe](https://github.com/zsoltika/omnivore-calibre-recipe) - a Calibre recipe to get saved articles from Omnivore.app in a nice ebook format
-- [CharlesChiuGit/Logseq-Git-Sync-101](https://github.com/CharlesChiuGit/Logseq-Git-Sync-101) - This repo aims to help Logseq users to sync their data with Git and GitHub.
+- [charliie-dev/Logseq-Git-Sync-101](https://github.com/charliie-dev/Logseq-Git-Sync-101) - This repo aims to help Logseq users to sync their data with Git and GitHub.
 - [erikw/restic-automatic-backup-scheduler](https://github.com/erikw/restic-automatic-backup-scheduler) - Automatic restic backup using Backblaze B2 storage and either Linux systemd timers, macOS LaunchAgent, Windows ScheduledTask or simply cron.
 - [JasonLocklin/clogger](https://github.com/JasonLocklin/clogger) - console based logger - fork using hamlib keyer
 - [beeper/beepy](https://github.com/beeper/beepy) - Beepy
