@@ -376,7 +376,7 @@
 - [dnlzro/horizon](https://github.com/dnlzro/horizon) - The current sky at your approximate location, rendered as a CSS gradient
 - [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe 🐈‍⬛🔒
 - [r-lib/actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard®
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [hnykda/logseq-wallabag](https://github.com/hnykda/logseq-wallabag) - A logseq plugin to sync wallabag content to logseq
 - [dwmkerr/terminal-ai](https://github.com/dwmkerr/terminal-ai) - Effortless AI in the shell. Maintain your flow and be more effective. Supports OpenAI, Gemini, Claude, Ollama, MSTY and many more.
 - [BHSPitMonkey/news2reader](https://github.com/BHSPitMonkey/news2reader) - Serve online articles directly to your e-reader using OPDS
