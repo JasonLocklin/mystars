@@ -368,7 +368,6 @@
 ## hacktoberfest 
 
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
-- [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way) - Book repository for The Turing Way: a how to guide for reproducible, ethical and collaborative data science
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -501,6 +500,7 @@
 
 ## others 
 
+- [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [Alexander-Locklin/Alexander-Locklin](https://github.com/Alexander-Locklin/Alexander-Locklin) - Portfolio Website
 - [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
 - [ephase/bastille_wallabag](https://github.com/ephase/bastille_wallabag) - Batille template for Wallabag
@@ -531,7 +531,6 @@
 - [mmagnus/Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin) - 📚 Modified version of the Calibre plugin for Pocket. Now, you get your articles organized by your Pocket tags, and more!
 - [BHSPitMonkey/news2reader](https://github.com/BHSPitMonkey/news2reader) - Serve online articles directly to your e-reader using OPDS
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
-- [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS pro
 - [fosslinux/fmt-md-table](https://github.com/fosslinux/fmt-md-table) - Format markdown tables with spaces automagically so you don't have to!
 - [posit-dev/bcorp-report](https://github.com/posit-dev/bcorp-report) - Posit's Benefit Corporation Annual Report
