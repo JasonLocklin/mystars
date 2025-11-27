@@ -23,6 +23,7 @@
 - [chatgpt-api](#chatgpt-api)
 - [cli](#cli)
 - [cloud](#cloud)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [config](#config)
 - [continuous-integration](#continuous-integration)
@@ -208,6 +209,10 @@
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
+
+## command-line 
+
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 
 ## compiler 
 
