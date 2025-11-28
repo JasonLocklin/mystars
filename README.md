@@ -240,6 +240,7 @@
 
 ## PowerShell 
 
+- [quarto-dev/quarto-actions](https://github.com/quarto-dev/quarto-actions) - 
 - [secretGeek/AwesomeCSV](https://github.com/secretGeek/AwesomeCSV) - 🕶️A curated list of awesome tools for dealing with CSV.
 
 ## Pug 
