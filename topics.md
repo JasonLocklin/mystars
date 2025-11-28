@@ -505,6 +505,7 @@
 
 ## others 
 
+- [quarto-dev/quarto-actions](https://github.com/quarto-dev/quarto-actions) - 
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [Alexander-Locklin/Alexander-Locklin](https://github.com/Alexander-Locklin/Alexander-Locklin) - Portfolio Website
 - [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
