@@ -72,6 +72,8 @@
 
 ## C++ 
 
+- [JS8Call-improved/JS8Call-improved](https://github.com/JS8Call-improved/JS8Call-improved) - Active development HEAD for the JS8Call project
+- [js8call/js8call](https://github.com/js8call/js8call) - 
 - [d99kris/nmail](https://github.com/d99kris/nmail) - Terminal-based email client for Linux and macOS
 - [Rhizomatica/mercury](https://github.com/Rhizomatica/mercury) - Mercury is a configurable open-source software-defined modem.
 - [ericjenott/Evertop](https://github.com/ericjenott/Evertop) - E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life.
