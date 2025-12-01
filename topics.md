@@ -505,6 +505,8 @@
 
 ## others 
 
+- [JS8Call-improved/JS8Call-improved](https://github.com/JS8Call-improved/JS8Call-improved) - Active development HEAD for the JS8Call project
+- [js8call/js8call](https://github.com/js8call/js8call) - 
 - [quarto-dev/quarto-actions](https://github.com/quarto-dev/quarto-actions) - 
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [Alexander-Locklin/Alexander-Locklin](https://github.com/Alexander-Locklin/Alexander-Locklin) - Portfolio Website
