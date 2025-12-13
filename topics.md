@@ -186,15 +186,15 @@
 
 ## chatbot 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## chatgpt 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## chatgpt-api 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## cli 
 
@@ -413,7 +413,7 @@
 ## language 
 
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## linux 
 
@@ -508,7 +508,7 @@
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [lowtechmag/solar_v2](https://github.com/lowtechmag/solar_v2) - Redesign of solar.lowtechmagazine.com in Hugo engine
 - [JS8Call-improved/JS8Call-improved](https://github.com/JS8Call-improved/JS8Call-improved) - Active development HEAD for the JS8Call project
-- [js8call/js8call](https://github.com/js8call/js8call) - 
+- [js8call/js8call](https://github.com/js8call/js8call) - Official repository for JS8Call Software
 - [quarto-dev/quarto-actions](https://github.com/quarto-dev/quarto-actions) - 
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [Alexander-Locklin/Alexander-Locklin](https://github.com/Alexander-Locklin/Alexander-Locklin) - Portfolio Website
