@@ -73,7 +73,7 @@
 ## C++ 
 
 - [JS8Call-improved/JS8Call-improved](https://github.com/JS8Call-improved/JS8Call-improved) - Active development HEAD for the JS8Call project
-- [js8call/js8call](https://github.com/js8call/js8call) - 
+- [js8call/js8call](https://github.com/js8call/js8call) - Official repository for JS8Call Software
 - [d99kris/nmail](https://github.com/d99kris/nmail) - Terminal-based email client for Linux and macOS
 - [Rhizomatica/mercury](https://github.com/Rhizomatica/mercury) - Mercury is a configurable open-source software-defined modem.
 - [ericjenott/Evertop](https://github.com/ericjenott/Evertop) - E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life.
@@ -392,7 +392,7 @@
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [agrmohit/omnivore-epub](https://github.com/agrmohit/omnivore-epub) - A program to generate epub file from articles saved in your Omnivore library and optionally send it to your eReader using email
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [Indie-Platforms/scrapecomfort](https://github.com/Indie-Platforms/scrapecomfort) - Desktop AI Data Scraper
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 
