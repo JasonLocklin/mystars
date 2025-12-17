@@ -47,6 +47,7 @@
 
 ## C 
 
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [andyholmes/valent](https://github.com/andyholmes/valent) - Connect, control and sync devices
 - [Mr-Bossman/pi-pico2-linux](https://github.com/Mr-Bossman/pi-pico2-linux) - RISC-V linux on the raspberry pi pico 2
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
@@ -67,6 +68,7 @@
 
 ## C# # 
 
+- [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [s1t5/mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration  and a dashboard.
 - [GPh83/resticterm](https://github.com/GPh83/resticterm) - multi-platform UI for restic backup software. (https://restic.net/)
 - [bjornekelund/N1MMlistener](https://github.com/bjornekelund/N1MMlistener) - Basic windows console app to listen to N1MM style UDP broadcasts
@@ -111,6 +113,7 @@
 
 ## Go 
 
+- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [mholt/caddy-l4](https://github.com/mholt/caddy-l4) - Layer 4 (TCP/UDP) app for Caddy
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML A
 - [RasmusLindroth/tut](https://github.com/RasmusLindroth/tut) - TUI for Mastodon with vim inspired keys
@@ -151,6 +154,7 @@
 
 ## Java 
 
+- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [DSheirer/sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).  Website:
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 - [rstudio/rstudio](https://github.com/rstudio/rstudio) - RStudio is an integrated development environment (IDE) for R
@@ -195,6 +199,7 @@
 
 ## Lua 
 
+- [jasonchoimtt/koreader-syncthing](https://github.com/jasonchoimtt/koreader-syncthing) - Syncthing plugin for KOReader
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [flip-rossi/readeck.koplugin](https://github.com/flip-rossi/readeck.koplugin) - An unofficial KOReader plugin to add integration with your Readeck instance.
 - [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
@@ -315,6 +320,7 @@
 
 ## Rust 
 
+- [kyoheiu/felix](https://github.com/kyoheiu/felix) - tui file manager with vim-like key mapping
 - [cosmic-utils/cosmic-connect-applet](https://github.com/cosmic-utils/cosmic-connect-applet) - An attempt to provide KDE Connect functionality in a cosmic applet
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [justlark/gempost](https://github.com/justlark/gempost) - A simple static site generator for creating a blog on the Gemini protocol
