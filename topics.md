@@ -107,6 +107,7 @@
 - [terminal](#terminal)
 - [termux](#termux)
 - [text-to-speech](#text-to-speech)
+- [tui](#tui)
 - [ui](#ui)
 - [vim](#vim)
 - [vpn](#vpn)
@@ -531,6 +532,7 @@
 
 ## others 
 
+- [gemrest/momoka](https://github.com/gemrest/momoka) - 🏕️ A Gemini-to-Gopher proxy that bridges the smolweb to even more smolweb
 - [jasonchoimtt/koreader-syncthing](https://github.com/jasonchoimtt/koreader-syncthing) - Syncthing plugin for KOReader
 - [andyholmes/valent](https://github.com/andyholmes/valent) - Connect, control and sync devices
 - [cosmic-utils/cosmic-connect-applet](https://github.com/cosmic-utils/cosmic-connect-applet) - An attempt to provide KDE Connect functionality in a cosmic applet
@@ -604,7 +606,6 @@
 - [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages
 - [rigon/qmmp-plugin-youtube](https://github.com/rigon/qmmp-plugin-youtube) - Plugin for Qmmp (Qt-based Multimedia Player) to search and play musics directly from YouTube.
 - [Vincent-liuwingsang/unlost](https://github.com/Vincent-liuwingsang/unlost) - 
-- [yazdipour/OmnivoreX](https://github.com/yazdipour/OmnivoreX) - Omnivore TUI Terminal Client [Windows - MacOS - Linux]
 - [shbhrsaha/typewriter](https://github.com/shbhrsaha/typewriter) - Distraction-free writing for Amazon Kindle
 - [yaronn/wopr](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics
 - [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
@@ -835,6 +836,15 @@
 ## text-to-speech 
 
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
+
+## tui 
+
+- [kyoheiu/felix](https://github.com/kyoheiu/felix) - tui file manager with vim-like key mapping
+- [RasmusLindroth/tut](https://github.com/RasmusLindroth/tut) - TUI for Mastodon with vim inspired keys
+- [d99kris/nmail](https://github.com/d99kris/nmail) - Terminal-based email client for Linux and macOS
+- [siddhantac/puffin](https://github.com/siddhantac/puffin) - A beautiful terminal dashboard for hledger 💰
+- [makew0rld/amfora](https://github.com/makew0rld/amfora) - A fancy terminal browser for the Gemini protocol.
+- [yazdipour/OmnivoreX](https://github.com/yazdipour/OmnivoreX) - Omnivore TUI Terminal Client [Windows - MacOS - Linux]
 
 ## ui 
 
