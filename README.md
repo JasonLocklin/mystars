@@ -13,6 +13,7 @@
 - [Dart](#dart)
 - [Emacs Lisp](#emacs-lisp)
 - [F#](#f#)
+- [Gleam](#gleam)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -110,6 +111,10 @@
 ## F# # 
 
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
+
+## Gleam 
+
+- [gemrest/momoka](https://github.com/gemrest/momoka) - 🏕️ A Gemini-to-Gopher proxy that bridges the smolweb to even more smolweb
 
 ## Go 
 
