@@ -111,6 +111,7 @@
 - [ui](#ui)
 - [vim](#vim)
 - [vpn](#vpn)
+- [vue](#vue)
 - [web](#web)
 - [windows](#windows)
 - [youtube](#youtube)
@@ -303,6 +304,7 @@
 
 ## docker 
 
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe 🐈‍⬛🔒
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [FormBee/FormBee](https://github.com/FormBee/FormBee) - The open-source form backend for data privacy conscious developers.
@@ -376,6 +378,7 @@
 
 ## golang 
 
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [srvaroa/repocket](https://github.com/srvaroa/repocket) - Manage a local copy of articles saved in Pocket
 - [py2many/py2many](https://github.com/py2many/py2many) - Transpiler of Python to many other languages
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
@@ -532,6 +535,7 @@
 
 ## others 
 
+- [autocrypt/autocrypt](https://github.com/autocrypt/autocrypt) - Convenient End-to-End Encryption for E-Mail
 - [gemrest/momoka](https://github.com/gemrest/momoka) - 🏕️ A Gemini-to-Gopher proxy that bridges the smolweb to even more smolweb
 - [jasonchoimtt/koreader-syncthing](https://github.com/jasonchoimtt/koreader-syncthing) - Syncthing plugin for KOReader
 - [andyholmes/valent](https://github.com/andyholmes/valent) - Connect, control and sync devices
@@ -714,6 +718,8 @@
 
 ## python 
 
+- [dpipstudio/botwave](https://github.com/dpipstudio/botwave) - BotWave - Your RPI FM Network
+- [ArcaneChat/arcanechat-tui](https://github.com/ArcaneChat/arcanechat-tui) - [WIP] a lightweight ArcaneChat client for the command line
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
@@ -734,6 +740,7 @@
 
 ## raspberry-pi 
 
+- [dpipstudio/botwave](https://github.com/dpipstudio/botwave) - BotWave - Your RPI FM Network
 - [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2) - A fast directory-first photo gallery website, with rich UI,  optimized for running on low resource servers (especially on raspberry pi)
 - [beeper/beepy](https://github.com/beeper/beepy) - Beepy
 - [dslotter/HamPi](https://github.com/dslotter/HamPi) - HamPi
@@ -774,6 +781,7 @@
 
 ## self-hosted 
 
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
@@ -863,6 +871,10 @@
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
+
+## vue 
+
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 
 ## web 
 
