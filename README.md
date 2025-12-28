@@ -118,6 +118,7 @@
 
 ## Go 
 
+- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [mholt/caddy-l4](https://github.com/mholt/caddy-l4) - Layer 4 (TCP/UDP) app for Caddy
@@ -264,6 +265,7 @@
 
 ## Python 
 
+- [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [dpipstudio/botwave](https://github.com/dpipstudio/botwave) - BotWave - Your RPI FM Network
 - [ArcaneChat/arcanechat-tui](https://github.com/ArcaneChat/arcanechat-tui) - [WIP] a lightweight ArcaneChat client for the command line
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
