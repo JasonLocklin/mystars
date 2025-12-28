@@ -535,6 +535,8 @@
 
 ## others 
 
+- [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
+- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [autocrypt/autocrypt](https://github.com/autocrypt/autocrypt) - Convenient End-to-End Encryption for E-Mail
 - [gemrest/momoka](https://github.com/gemrest/momoka) - 🏕️ A Gemini-to-Gopher proxy that bridges the smolweb to even more smolweb
 - [jasonchoimtt/koreader-syncthing](https://github.com/jasonchoimtt/koreader-syncthing) - Syncthing plugin for KOReader
