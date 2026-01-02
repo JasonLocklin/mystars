@@ -56,6 +56,7 @@
 - [github](#github)
 - [go](#go)
 - [golang](#golang)
+- [good-first-issue](#good-first-issue)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [image-processing](#image-processing)
@@ -390,6 +391,10 @@
 - [wader/ydls](https://github.com/wader/ydls) - youtube-dl HTTP download and transcode service
 - [TheAutodidacts/InternetTelegraph](https://github.com/TheAutodidacts/InternetTelegraph) - Source code for the One-Button Internet Telegraph
 
+## good-first-issue 
+
+- [dpipstudio/botwave](https://github.com/dpipstudio/botwave) - BotWave - Your Raspberry Pi FM Network
+
 ## hacktoberfest 
 
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
@@ -720,7 +725,7 @@
 
 ## python 
 
-- [dpipstudio/botwave](https://github.com/dpipstudio/botwave) - BotWave - Your RPI FM Network
+- [dpipstudio/botwave](https://github.com/dpipstudio/botwave) - BotWave - Your Raspberry Pi FM Network
 - [ArcaneChat/arcanechat-tui](https://github.com/ArcaneChat/arcanechat-tui) - [WIP] a lightweight ArcaneChat client for the command line
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
@@ -742,7 +747,7 @@
 
 ## raspberry-pi 
 
-- [dpipstudio/botwave](https://github.com/dpipstudio/botwave) - BotWave - Your RPI FM Network
+- [dpipstudio/botwave](https://github.com/dpipstudio/botwave) - BotWave - Your Raspberry Pi FM Network
 - [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2) - A fast directory-first photo gallery website, with rich UI,  optimized for running on low resource servers (especially on raspberry pi)
 - [beeper/beepy](https://github.com/beeper/beepy) - Beepy
 - [dslotter/HamPi](https://github.com/dslotter/HamPi) - HamPi
