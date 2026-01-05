@@ -211,6 +211,7 @@
 
 ## cli 
 
+- [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [artur-shaik/wallabag-client](https://github.com/artur-shaik/wallabag-client) - Command line client for the self hosted read-it-later app Wallabag
@@ -357,6 +358,7 @@
 
 ## git 
 
+- [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [charliie-dev/Logseq-Git-Sync-101](https://github.com/charliie-dev/Logseq-Git-Sync-101) - This repo aims to help Logseq users to sync their data with Git and GitHub.
 
@@ -854,6 +856,7 @@
 
 ## tui 
 
+- [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [kyoheiu/felix](https://github.com/kyoheiu/felix) - tui file manager with vim-like key mapping
 - [RasmusLindroth/tut](https://github.com/RasmusLindroth/tut) - TUI for Mastodon with vim inspired keys
 - [d99kris/nmail](https://github.com/d99kris/nmail) - Terminal-based email client for Linux and macOS
