@@ -497,6 +497,7 @@
 
 ## mastodon 
 
+- [kimusan/mastui](https://github.com/kimusan/mastui) - A TUI client for mastodon written in python
 - [RasmusLindroth/tut](https://github.com/RasmusLindroth/tut) - TUI for Mastodon with vim inspired keys
 
 ## monitoring 
@@ -719,6 +720,7 @@
 
 ## productivity 
 
+- [hanebox/ekphos](https://github.com/hanebox/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 
 ## publishing 
@@ -727,6 +729,7 @@
 
 ## python 
 
+- [kimusan/mastui](https://github.com/kimusan/mastui) - A TUI client for mastodon written in python
 - [dpipstudio/botwave](https://github.com/dpipstudio/botwave) - BotWave - Your Raspberry Pi FM Network
 - [ArcaneChat/arcanechat-tui](https://github.com/ArcaneChat/arcanechat-tui) - [WIP] a lightweight ArcaneChat client for the command line
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
@@ -856,6 +859,8 @@
 
 ## tui 
 
+- [kimusan/mastui](https://github.com/kimusan/mastui) - A TUI client for mastodon written in python
+- [hanebox/ekphos](https://github.com/hanebox/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [kyoheiu/felix](https://github.com/kyoheiu/felix) - tui file manager with vim-like key mapping
 - [RasmusLindroth/tut](https://github.com/RasmusLindroth/tut) - TUI for Mastodon with vim inspired keys
