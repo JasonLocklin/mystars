@@ -333,6 +333,7 @@
 
 ## Rust 
 
+- [intuis/mnyaoo32](https://github.com/intuis/mnyaoo32) - esp32 IRC client made with mousefood
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [matiaskorhonen/paper-age](https://github.com/matiaskorhonen/paper-age) - Easy and secure paper backups of secrets
 - [hanebox/ekphos](https://github.com/hanebox/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
