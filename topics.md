@@ -553,6 +553,8 @@
 
 ## others 
 
+- [azaidrahman/Alchemer-Scripts](https://github.com/azaidrahman/Alchemer-Scripts) - Collection of scripts I made for scripting in Alchemer
+- [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
 - [intuis/mnyaoo32](https://github.com/intuis/mnyaoo32) - esp32 IRC client made with mousefood
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
@@ -901,6 +903,7 @@
 
 ## vim 
 
+- [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim) - :tulip: Distraction-free writing in Vim
 - [rafo/aerc-vim](https://github.com/rafo/aerc-vim) - Vim-Like Keybindings for Aerc. Aerc is an exceptional terminal-based email client known for its efficiency and simplicity.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim) - A Vim-like configuration for Helix
