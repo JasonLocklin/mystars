@@ -41,6 +41,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Typst](#typst)
+- [Vim Script](#vim-script)
 
 ## Batchfile 
 
@@ -208,6 +209,7 @@
 
 ## Lua 
 
+- [azaidrahman/Alchemer-Scripts](https://github.com/azaidrahman/Alchemer-Scripts) - Collection of scripts I made for scripting in Alchemer
 - [jasonchoimtt/koreader-syncthing](https://github.com/jasonchoimtt/koreader-syncthing) - Syncthing plugin for KOReader
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [flip-rossi/readeck.koplugin](https://github.com/flip-rossi/readeck.koplugin) - An unofficial KOReader plugin to add integration with your Readeck instance.
@@ -426,6 +428,11 @@
 ## Typst 
 
 - [posit-dev/bcorp-report](https://github.com/posit-dev/bcorp-report) - Posit's Benefit Corporation Annual Report
+
+## Vim Script 
+
+- [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
+- [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim) - :tulip: Distraction-free writing in Vim
 
 
 ## License
