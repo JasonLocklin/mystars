@@ -49,6 +49,7 @@
 
 ## C 
 
+- [lurk101/pshell](https://github.com/lurk101/pshell) - A tiny shell for Pico and Pico2, with file system, Vi and C compiler
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [andyholmes/valent](https://github.com/andyholmes/valent) - Connect, control and sync devices
 - [Mr-Bossman/pi-pico2-linux](https://github.com/Mr-Bossman/pi-pico2-linux) - RISC-V linux on the raspberry pi pico 2
@@ -269,6 +270,7 @@
 
 ## Python 
 
+- [beryllium-org/OS](https://github.com/beryllium-org/OS) - Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)
 - [kimusan/mastui](https://github.com/kimusan/mastui) - A TUI client for mastodon written in python
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [dpipstudio/botwave](https://github.com/dpipstudio/botwave) - BotWave - Your Raspberry Pi FM Network
