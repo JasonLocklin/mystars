@@ -46,6 +46,7 @@
 - [education](#education)
 - [electron](#electron)
 - [emacs](#emacs)
+- [embedded](#embedded)
 - [emulator](#emulator)
 - [express](#express)
 - [finance](#finance)
@@ -197,6 +198,7 @@
 
 ## c 
 
+- [lurk101/pshell](https://github.com/lurk101/pshell) - A tiny shell for Pico and Pico2, with file system, Vi and C compiler
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based 
 
 ## c-plus-plus 
@@ -230,6 +232,7 @@
 
 ## compiler 
 
+- [lurk101/pshell](https://github.com/lurk101/pshell) - A tiny shell for Pico and Pico2, with file system, Vi and C compiler
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 
 ## config 
@@ -337,6 +340,10 @@
 ## emacs 
 
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
+
+## embedded 
+
+- [beryllium-org/OS](https://github.com/beryllium-org/OS) - Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)
 
 ## emulator 
 
@@ -747,6 +754,7 @@
 
 ## python 
 
+- [beryllium-org/OS](https://github.com/beryllium-org/OS) - Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)
 - [kimusan/mastui](https://github.com/kimusan/mastui) - A TUI client for mastodon written in python
 - [dpipstudio/botwave](https://github.com/dpipstudio/botwave) - BotWave - Your Raspberry Pi FM Network
 - [ArcaneChat/arcanechat-tui](https://github.com/ArcaneChat/arcanechat-tui) - [WIP] a lightweight ArcaneChat client for the command line
