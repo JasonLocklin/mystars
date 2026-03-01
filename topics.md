@@ -44,7 +44,6 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [education](#education)
-- [electron](#electron)
 - [emacs](#emacs)
 - [embedded](#embedded)
 - [emulator](#emulator)
@@ -332,10 +331,6 @@
 - [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way) - Book repository for The Turing Way: a how to guide for reproducible, ethical and collaborative data science
 - [zefanja/awesome-opensource-school](https://github.com/zefanja/awesome-opensource-school) - awesome free and open source software (FOSS) for schools
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-
-## electron 
-
-- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 
 ## emacs 
 
@@ -789,6 +784,7 @@
 
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [khlieng/dispatch](https://github.com/khlieng/dispatch) - Web-based IRC client in Go.
 
 ## reactjs 
@@ -809,6 +805,7 @@
 - [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem
 - [py2many/py2many](https://github.com/py2many/py2many) - Transpiler of Python to many other languages
 - [ynuwenhof/koblas](https://github.com/ynuwenhof/koblas) - Lightweight SOCKS5 proxy server
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 
 ## security 
 
@@ -903,6 +900,7 @@
 
 ## typescript 
 
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## ui 
@@ -944,7 +942,6 @@
 ## youtube 
 
 - [tizonia/tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
-- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 
 ## zsh 
 
