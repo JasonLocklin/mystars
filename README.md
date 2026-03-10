@@ -52,7 +52,7 @@
 - [lurk101/pshell](https://github.com/lurk101/pshell) - A tiny shell for Pico and Pico2, with file system, Vi and C compiler
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [andyholmes/valent](https://github.com/andyholmes/valent) - Connect, control and sync devices
-- [Rhizomatica/mercury](https://github.com/Rhizomatica/mercury) - Mercury is a configurable open-source software-defined modem.
+- [Rhizomatica/mercury](https://github.com/Rhizomatica/mercury) - Mercury is a Digital Radio OFDM protocol for HF broadcast and peer-to-peer ARQ connections with compatible TCP interfaces
 - [Mr-Bossman/pi-pico2-linux](https://github.com/Mr-Bossman/pi-pico2-linux) - RISC-V linux on the raspberry pi pico 2
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [skuep/AIOC](https://github.com/skuep/AIOC) - Ham Radio All-in-one-Cable
