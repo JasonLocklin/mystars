@@ -271,6 +271,7 @@
 
 ## Python 
 
+- [MonkeybutlerCJH/potatui](https://github.com/MonkeybutlerCJH/potatui) - 
 - [beryllium-org/OS](https://github.com/beryllium-org/OS) - Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)
 - [kimusan/mastui](https://github.com/kimusan/mastui) - A TUI client for mastodon written in python
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
