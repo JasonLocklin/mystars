@@ -9,7 +9,6 @@
 - [ai-agents](#ai-agents)
 - [analytics](#analytics)
 - [android](#android)
-- [angular](#angular)
 - [ansible](#ansible)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
@@ -61,7 +60,6 @@
 - [image-processing](#image-processing)
 - [ios](#ios)
 - [iot](#iot)
-- [java](#java)
 - [javascript](#javascript)
 - [json](#json)
 - [julia](#julia)
@@ -104,7 +102,6 @@
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [shell](#shell)
-- [spring-boot](#spring-boot)
 - [sql](#sql)
 - [swift](#swift)
 - [swiftui](#swiftui)
@@ -143,10 +140,6 @@
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [plateaukao/einkbro](https://github.com/plateaukao/einkbro) - A small, fast web browser based on Android WebView. It's tailored for E-Ink devices but also works great on normal android devices.
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
-
-## angular 
-
-- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 
 ## ansible 
 
@@ -431,10 +424,6 @@
 
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [TheAutodidacts/InternetTelegraph](https://github.com/TheAutodidacts/InternetTelegraph) - Source code for the One-Button Internet Telegraph
-
-## java 
-
-- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 
 ## javascript 
 
@@ -829,7 +818,6 @@
 ## self-hosted 
 
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
@@ -850,10 +838,6 @@
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
-
-## spring-boot 
-
-- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 
 ## sql 
 
