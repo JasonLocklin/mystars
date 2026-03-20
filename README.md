@@ -54,7 +54,6 @@
 - [andyholmes/valent](https://github.com/andyholmes/valent) - Connect, control and sync devices
 - [Rhizomatica/mercury](https://github.com/Rhizomatica/mercury) - Mercury is a Digital Radio OFDM protocol for HF broadcast and peer-to-peer ARQ connections with compatible TCP interfaces
 - [Mr-Bossman/pi-pico2-linux](https://github.com/Mr-Bossman/pi-pico2-linux) - RISC-V linux on the raspberry pi pico 2
-- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [skuep/AIOC](https://github.com/skuep/AIOC) - Ham Radio All-in-one-Cable
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [kstenerud/safe-encoding](https://github.com/kstenerud/safe-encoding) - Binary-to-text encoding that is safe to pass through modern text processors
@@ -83,6 +82,7 @@
 - [js8call/js8call](https://github.com/js8call/js8call) - Official repository for JS8Call Software
 - [d99kris/nmail](https://github.com/d99kris/nmail) - Terminal-based email client for Linux and macOS
 - [ericjenott/Evertop](https://github.com/ericjenott/Evertop) - E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life.
+- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [rigon/qmmp-plugin-youtube](https://github.com/rigon/qmmp-plugin-youtube) - Plugin for Qmmp (Qt-based Multimedia Player) to search and play musics directly from YouTube.
