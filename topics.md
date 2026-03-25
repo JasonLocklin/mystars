@@ -332,7 +332,7 @@
 
 ## embedded 
 
-- [beryllium-org/OS](https://github.com/beryllium-org/OS) - Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)
+- [beryllium-org/Micro](https://github.com/beryllium-org/Micro) - Beryllium OS Micro, a unix-like operating system for CircuitPython powered microcontrollers.
 
 ## emulator 
 
@@ -745,7 +745,7 @@
 
 ## python 
 
-- [beryllium-org/OS](https://github.com/beryllium-org/OS) - Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)
+- [beryllium-org/Micro](https://github.com/beryllium-org/Micro) - Beryllium OS Micro, a unix-like operating system for CircuitPython powered microcontrollers.
 - [kimusan/mastui](https://github.com/kimusan/mastui) - A TUI client for mastodon written in python
 - [dpipstudio/botwave](https://github.com/dpipstudio/botwave) - BotWave - Your Raspberry Pi FM Network
 - [ArcaneChat/arcanechat-tui](https://github.com/ArcaneChat/arcanechat-tui) - [WIP] a lightweight ArcaneChat client for the command line
