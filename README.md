@@ -270,7 +270,7 @@
 
 ## Python 
 
-- [MonkeybutlerCJH/potatui](https://github.com/MonkeybutlerCJH/potatui) - 
+- [MonkeybutlerCJH/potatui](https://github.com/MonkeybutlerCJH/potatui) - A terminal user interface (TUI) for logging Parks on the Air (POTA) activations
 - [beryllium-org/Micro](https://github.com/beryllium-org/Micro) - Beryllium OS Micro, a unix-like operating system for CircuitPython powered microcontrollers.
 - [kimusan/mastui](https://github.com/kimusan/mastui) - A TUI client for mastodon written in python
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
