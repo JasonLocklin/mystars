@@ -46,6 +46,7 @@
 - [emacs](#emacs)
 - [embedded](#embedded)
 - [emulator](#emulator)
+- [esp32](#esp32)
 - [express](#express)
 - [finance](#finance)
 - [flutter](#flutter)
@@ -337,6 +338,10 @@
 ## emulator 
 
 - [c1570/Connomore64](https://github.com/c1570/Connomore64) - Realtime cycle exact emulation of the C64 using multiple microcontrollers in parallel.
+
+## esp32 
+
+- [beryllium-org/Micro](https://github.com/beryllium-org/Micro) - Beryllium OS Micro, a unix-like operating system for CircuitPython powered microcontrollers.
 
 ## express 
 
