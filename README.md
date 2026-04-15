@@ -160,6 +160,7 @@
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [HB9UF/ElPiHat](https://github.com/HB9UF/ElPiHat) - EchoLink Hat for Raspberry Pi
 - [M17-Project/TR-9](https://github.com/M17-Project/TR-9) - TR-9 - M17 protocol compatible handheld - schematics, PCB design files, BOM.
+- [mountainMath/cancensus](https://github.com/mountainMath/cancensus) - R wrapper for calling CensusMapper APIs
 
 ## Haskell 
 
@@ -327,7 +328,6 @@
 - [posit-dev/r-shinylive](https://github.com/posit-dev/r-shinylive) - 
 - [priism-center/thinkCausal_dev](https://github.com/priism-center/thinkCausal_dev) - Point-and-click bartCause analysis and causal inference education
 - [DUGroup/On-Marg-Index](https://github.com/DUGroup/On-Marg-Index) - 
-- [mountainMath/cancensus](https://github.com/mountainMath/cancensus) - R wrapper for calling CensusMapper APIs
 - [petrelharp/templater](https://github.com/petrelharp/templater) - Some tools for writing and compiling reports in R+markdown.
 - [DCConley/schoolR](https://github.com/DCConley/schoolR) - Useful functions for School Board Researchers
 - [hadley/r-pkgs](https://github.com/hadley/r-pkgs) - Building R packages
