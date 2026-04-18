@@ -151,7 +151,6 @@
 ## HTML 
 
 - [lowtechmag/solar_v2](https://github.com/lowtechmag/solar_v2) - Redesign of solar.lowtechmagazine.com in Hugo engine
-- [Joedmin/xExtension-readeck-button](https://github.com/Joedmin/xExtension-readeck-button) - Add FreshRSS articles to Readeck with one simple button click or a keyboard shortcut.
 - [grousell/Intro-RMarkdown](https://github.com/grousell/Intro-RMarkdown) - Introduction to RMarkdown
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
@@ -246,6 +245,7 @@
 ## PHP 
 
 - [Niehztog/freshrss-af-readability](https://github.com/Niehztog/freshrss-af-readability) - Article full text FreshRSS extension
+- [Joedmin/xExtension-readeck-button](https://github.com/Joedmin/xExtension-readeck-button) - Add FreshRSS articles to Readeck with one simple button click or a keyboard shortcut.
 - [FreshRSS/Extensions](https://github.com/FreshRSS/Extensions) - A repository containing all the official FreshRSS extensions
 
 ## Pascal 
