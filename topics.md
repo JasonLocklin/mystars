@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent](#agent)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [analytics](#analytics)
@@ -120,6 +121,10 @@
 - [windows](#windows)
 - [youtube](#youtube)
 - [zsh](#zsh)
+
+## agent 
+
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 
 ## ai 
 
