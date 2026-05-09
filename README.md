@@ -367,6 +367,7 @@
 
 ## Shell 
 
+- [BastilleBSD/templates](https://github.com/BastilleBSD/templates) - Consolidated repository of BastilleBSD automation templates
 - [autocrypt/autocrypt](https://github.com/autocrypt/autocrypt) - Convenient End-to-End Encryption for E-Mail
 - [rafo/aerc-vim](https://github.com/rafo/aerc-vim) - Vim-Like Keybindings for Aerc. Aerc is an exceptional terminal-based email client known for its efficiency and simplicity.
 - [winblues/blue95](https://github.com/winblues/blue95) - A desktop for your childhood home's computer room
