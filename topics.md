@@ -164,6 +164,7 @@
 
 ## automation 
 
+- [BastilleBSD/templates](https://github.com/BastilleBSD/templates) - Consolidated repository of BastilleBSD automation templates
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 
