@@ -566,6 +566,7 @@
 
 ## others 
 
+- [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [MonkeybutlerCJH/potatui](https://github.com/MonkeybutlerCJH/potatui) - A terminal user interface (TUI) for logging Parks on the Air (POTA) activations
 - [azaidrahman/Alchemer-Scripts](https://github.com/azaidrahman/Alchemer-Scripts) - Collection of scripts I made for scripting in Alchemer
 - [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
