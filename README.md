@@ -140,6 +140,7 @@
 - [makew0rld/amfora](https://github.com/makew0rld/amfora) - A fancy terminal browser for the Gemini protocol.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
+- [rubiojr/awesome-restic](https://github.com/rubiojr/awesome-restic) - Awesome Restic related projects
 - [flwyd/adif-multitool](https://github.com/flwyd/adif-multitool) - Validate, modify, and convert ham radio log files with a handy command-line tool. 📻🌳🪓
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [khlieng/dispatch](https://github.com/khlieng/dispatch) - Web-based IRC client in Go.
@@ -234,7 +235,6 @@
 - [ssshake/retro-computing-internet-resources](https://github.com/ssshake/retro-computing-internet-resources) - A list of the various projects to get vintage computers connected to the internet
 - [vince-lam/awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) - Compare open-source local LLM inference projects by their metrics to assess popularity and activeness.
 - [mullvad/encrypted-dns-profiles](https://github.com/mullvad/encrypted-dns-profiles) - macOS and iOS profiles to configure our DNS over TLS and DNS over HTTPS service. Can be applied with human interaction, or via MDM.
-- [rubiojr/awesome-restic](https://github.com/rubiojr/awesome-restic) - Awesome Restic related projects
 - [DG1JAN/xOTA-Antenna](https://github.com/DG1JAN/xOTA-Antenna) - A pcb for end fed antennas (EFHW, random wire) for SOTA, POTA,... xOTA
 - [jaymzx/RPi-WD-Packet-Interface](https://github.com/jaymzx/RPi-WD-Packet-Interface) - A digital mode soundcard interface for the Raspberry Pi
 - [mfhepp/tinyswr](https://github.com/mfhepp/tinyswr) - A tiny SWR and RF power indicator for QRP transceivers
