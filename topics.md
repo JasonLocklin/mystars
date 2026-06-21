@@ -639,7 +639,7 @@
 - [ssshake/retro-computing-internet-resources](https://github.com/ssshake/retro-computing-internet-resources) - A list of the various projects to get vintage computers connected to the internet
 - [ssshake/pi-uhf-tv-station](https://github.com/ssshake/pi-uhf-tv-station) - Build your own UHF TV stations using a Raspberry Pi
 - [mnr/rpigpior](https://github.com/mnr/rpigpior) - R for Raspberry Pi with GPIO support
-- [vince-lam/awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) - Compare open-source local LLM inference projects by their metrics to assess popularity and activeness.
+- [vince-lam/awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) - Compare compatible open-source local LLM projects by their metrics to assess popularity and activeness.
 - [RangerMauve/gemini-to-html](https://github.com/RangerMauve/gemini-to-html) - Parse out gemini pages and convert them to HTML
 - [zsoltika/omnivore-calibre-recipe](https://github.com/zsoltika/omnivore-calibre-recipe) - a Calibre recipe to get saved articles from Omnivore.app in a nice ebook format
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
