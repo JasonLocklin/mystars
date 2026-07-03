@@ -40,7 +40,6 @@
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
-- [Typst](#typst)
 - [Vim Script](#vim-script)
 
 ## Batchfile 
@@ -324,6 +323,7 @@
 - [grousell/alchemeR](https://github.com/grousell/alchemeR) - alchemeR
 - [r-lib/tree-sitter-r](https://github.com/r-lib/tree-sitter-r) - Tree-sitter grammar for R
 - [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) - An implementation of the Grammar of Graphics in R
+- [posit-dev/bcorp-report](https://github.com/posit-dev/bcorp-report) - Posit's Benefit Corporation Annual Report
 - [surveydown-dev/surveydown](https://github.com/surveydown-dev/surveydown) - Markdown-Based, Programmable Surveys Using R, Quarto, Shiny, and PostgreSQL
 - [mnr/rpigpior](https://github.com/mnr/rpigpior) - R for Raspberry Pi with GPIO support
 - [posit-dev/r-shinylive](https://github.com/posit-dev/r-shinylive) - 
@@ -429,10 +429,6 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [Indie-Platforms/scrapecomfort](https://github.com/Indie-Platforms/scrapecomfort) - Desktop AI Data Scraper
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
-
-## Typst 
-
-- [posit-dev/bcorp-report](https://github.com/posit-dev/bcorp-report) - Posit's Benefit Corporation Annual Report
 
 ## Vim Script 
 
