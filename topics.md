@@ -20,6 +20,7 @@
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
+- [claude](#claude)
 - [cli](#cli)
 - [cloud](#cloud)
 - [command-line](#command-line)
@@ -209,6 +210,10 @@
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify and fanotify, Microsoft Windows and a 
 
 ## chatgpt 
+
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+
+## claude 
 
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
