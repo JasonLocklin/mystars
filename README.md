@@ -172,7 +172,6 @@
 
 ## JavaScript 
 
-- [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [cheeaun/gh-starred-repos-feed](https://github.com/cheeaun/gh-starred-repos-feed) - A Cloudflare Worker that returns the starred repos of a GitHub user as a RSS feed
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
@@ -410,6 +409,7 @@
 
 ## TypeScript 
 
+- [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [dnlzro/horizon](https://github.com/dnlzro/horizon) - The current sky at your approximate location, rendered as a CSS gradient
 - [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe
