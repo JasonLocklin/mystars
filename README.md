@@ -409,6 +409,7 @@
 
 ## TypeScript 
 
+- [lyallcooper/justif](https://github.com/lyallcooper/justif) - Publication-grade text justification for the web
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [dnlzro/horizon](https://github.com/dnlzro/horizon) - The current sky at your approximate location, rendered as a CSS gradient
