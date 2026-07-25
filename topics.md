@@ -572,7 +572,6 @@
 ## others 
 
 - [lyallcooper/justif](https://github.com/lyallcooper/justif) - Publication-grade text justification for the web
-- [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [MonkeybutlerCJH/potatui](https://github.com/MonkeybutlerCJH/potatui) - A terminal user interface (TUI) for logging Parks on the Air (POTA) activations
 - [azaidrahman/Alchemer-Scripts](https://github.com/azaidrahman/Alchemer-Scripts) - Collection of scripts I made for scripting in Alchemer
 - [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
@@ -750,6 +749,7 @@
 
 ## privacy 
 
+- [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
@@ -828,6 +828,7 @@
 
 ## security 
 
+- [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [slok/agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool
 - [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML A
