@@ -306,7 +306,7 @@
 - [loughkb/IC-7300-time-sync](https://github.com/loughkb/IC-7300-time-sync) - Python3 script to sync the radio's clock with your computer via CAT commands
 - [F4HTB/Universal_HamRadio_Remote_HTML5](https://github.com/F4HTB/Universal_HamRadio_Remote_HTML5) - Universal HamRadio Remote HTML5 interface
 - [sycophantic/pskreportertelegram](https://github.com/sycophantic/pskreportertelegram) - 
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [Alcampopiano/EA_algorithm](https://github.com/Alcampopiano/EA_algorithm) - optimization method for allocating finite resources
 - [etamme/cwkeyer](https://github.com/etamme/cwkeyer) - python based serial cw keyer
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
