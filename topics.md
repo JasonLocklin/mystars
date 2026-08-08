@@ -571,7 +571,7 @@
 
 ## others 
 
-- [lyallcooper/justif](https://github.com/lyallcooper/justif) - Publication-grade text justification for the web
+- [lyallcooper/justif](https://github.com/lyallcooper/justif) - Text justification for perfectionists
 - [MonkeybutlerCJH/potatui](https://github.com/MonkeybutlerCJH/potatui) - A terminal user interface (TUI) for logging Parks on the Air (POTA) activations
 - [azaidrahman/Alchemer-Scripts](https://github.com/azaidrahman/Alchemer-Scripts) - Collection of scripts I made for scripting in Alchemer
 - [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
