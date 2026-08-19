@@ -166,6 +166,7 @@
 ## automation 
 
 - [BastilleBSD/templates](https://github.com/BastilleBSD/templates) - Consolidated repository of BastilleBSD automation templates
+- [dpipstudio/botwave](https://github.com/dpipstudio/botwave) - BotWave - Your Raspberry Pi FM Network
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 
@@ -571,6 +572,8 @@
 
 ## others 
 
+- [peemot/immich-export](https://github.com/peemot/immich-export) - 
+- [yuhuan417/immich-scripts](https://github.com/yuhuan417/immich-scripts) - 
 - [lyallcooper/justif](https://github.com/lyallcooper/justif) - Text justification for perfectionists
 - [MonkeybutlerCJH/potatui](https://github.com/MonkeybutlerCJH/potatui) - A terminal user interface (TUI) for logging Parks on the Air (POTA) activations
 - [azaidrahman/Alchemer-Scripts](https://github.com/azaidrahman/Alchemer-Scripts) - Collection of scripts I made for scripting in Alchemer
