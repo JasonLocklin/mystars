@@ -234,7 +234,7 @@
 - [DG1JAN/xOTA-Antenna](https://github.com/DG1JAN/xOTA-Antenna) - A pcb for end fed antennas (EFHW, random wire) for SOTA, POTA,... xOTA
 - [jaymzx/RPi-WD-Packet-Interface](https://github.com/jaymzx/RPi-WD-Packet-Interface) - A digital mode soundcard interface for the Raspberry Pi
 - [mfhepp/tinyswr](https://github.com/mfhepp/tinyswr) - A tiny SWR and RF power indicator for QRP transceivers
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [openham/graphics](https://github.com/openham/graphics) - Graphics and logos for OpenHam.
 - [alejolp/49er-qrp](https://github.com/alejolp/49er-qrp) - NorCal's 49er QRP PCB
 - [jtleek/datasharing](https://github.com/jtleek/datasharing) - The Leek group guide to data sharing
