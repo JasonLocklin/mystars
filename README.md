@@ -138,6 +138,7 @@
 - [slok/grafterm](https://github.com/slok/grafterm) - Metrics dashboards on terminal (a grafana inspired terminal version)
 - [makew0rld/amfora](https://github.com/makew0rld/amfora) - A fancy terminal browser for the Gemini protocol.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
+- [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [rubiojr/awesome-restic](https://github.com/rubiojr/awesome-restic) - Awesome Restic related projects
 - [flwyd/adif-multitool](https://github.com/flwyd/adif-multitool) - Validate, modify, and convert ham radio log files with a handy command-line tool. 📻🌳🪓
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -180,7 +181,6 @@
 - [DO-SAY-GO/tdf](https://github.com/DO-SAY-GO/tdf) - 🌱 TDF - Tree Document Format - a universal file format for web collections
 - [ssshake/pi-uhf-tv-station](https://github.com/ssshake/pi-uhf-tv-station) - Build your own UHF TV stations using a Raspberry Pi
 - [RangerMauve/gemini-to-html](https://github.com/RangerMauve/gemini-to-html) - Parse out gemini pages and convert them to HTML
-- [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [bakkot/matrix-archive-bot](https://github.com/bakkot/matrix-archive-bot) - bot to log matrix channels
 - [shbhrsaha/typewriter](https://github.com/shbhrsaha/typewriter) - Distraction-free writing for Amazon Kindle
 - [hack-chat/main](https://github.com/hack-chat/main) - a minimal, distraction-free chat application
