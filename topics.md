@@ -203,6 +203,7 @@
 
 ## c 
 
+- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [lurk101/pshell](https://github.com/lurk101/pshell) - A tiny shell for Pico and Pico2, with file system, Vi and C compiler
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify and fanotify, Microsoft Windows and a 
 
@@ -347,6 +348,7 @@
 
 ## embedded 
 
+- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [beryllium-org/Micro](https://github.com/beryllium-org/Micro) - Beryllium OS Micro, a unix-like operating system for CircuitPython powered microcontrollers.
 
 ## emulator 
@@ -795,6 +797,7 @@
 
 ## raspberry-pi 
 
+- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [dpipstudio/botwave](https://github.com/dpipstudio/botwave) - BotWave - Your Raspberry Pi FM Network
 - [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2) - A fast directory-first photo gallery website, with rich UI,  optimized for running on low resource servers (especially on raspberry pi)
 - [beeper/beepy](https://github.com/beeper/beepy) - Beepy
