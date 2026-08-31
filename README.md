@@ -48,6 +48,7 @@
 
 ## C 
 
+- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [lurk101/pshell](https://github.com/lurk101/pshell) - A tiny shell for Pico and Pico2, with file system, Vi and C compiler
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [andyholmes/valent](https://github.com/andyholmes/valent) - Connect, control and sync devices
