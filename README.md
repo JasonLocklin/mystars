@@ -63,7 +63,6 @@
 - [dwinker/icom7300_civ](https://github.com/dwinker/icom7300_civ) - This little program turns my ICOM-7300 ham radio transciever on or off from the Linux PC it is connected to via the USB.
 - [Tlf/tlf](https://github.com/Tlf/tlf) - TLF - a console based ham radio contest logger
 - [W8BSD/netcw](https://github.com/W8BSD/netcw) - Transmits CW over the internet
-- [sipwise/rtpengine](https://github.com/sipwise/rtpengine) - The Sipwise media proxy for Kamailio
 - [sp5wwp/M17_ANL](https://github.com/sp5wwp/M17_ANL) - A radio modem based on SiLabs Si4463 - "M17 analyser"
 - [tarasglek/sleepyscripts](https://github.com/tarasglek/sleepyscripts) - Scripts for managing automatic suspend and wakeup on Linux servers
 - [phhusson/QuasselBots](https://github.com/phhusson/QuasselBots) - Some bots (written in C) for Quassel
@@ -254,6 +253,7 @@
 ## Perl 
 
 - [hadley/ggplot2-book](https://github.com/hadley/ggplot2-book) - ggplot2: elegant graphics for data analysis
+- [sipwise/rtpengine](https://github.com/sipwise/rtpengine) - The Sipwise media proxy for Kamailio
 - [cruvolo/qrzxmlemu](https://github.com/cruvolo/qrzxmlemu) - qrz XML emulator
 - [arodland/swr](https://github.com/arodland/swr) - 
 - [molo1134/qrmbot](https://github.com/molo1134/qrmbot) - qrm ham radio IRC bot and associated scripts
