@@ -109,6 +109,7 @@
 
 ## Emacs Lisp 
 
+- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Emacs init.el and early-init.el for Better Defaults and Optimized Startup, intended to serve as a solid foundation for your vanilla Emacs configuration | Emacs Starter Kit
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 
 ## F# # 
@@ -270,6 +271,7 @@
 
 ## Python 
 
+- [noembryo/KoHighlights](https://github.com/noembryo/KoHighlights) - KOHighlights is a utility for viewing KOReader's highlights and/or export them to simple text, html, csv or markdown files.
 - [peemot/immich-export](https://github.com/peemot/immich-export) - 
 - [yuhuan417/immich-scripts](https://github.com/yuhuan417/immich-scripts) - 
 - [MonkeybutlerCJH/potatui](https://github.com/MonkeybutlerCJH/potatui) - A terminal user interface (TUI) for logging Parks on the Air (POTA) activations
