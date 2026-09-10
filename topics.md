@@ -344,6 +344,7 @@
 
 ## emacs 
 
+- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Emacs init.el and early-init.el for Better Defaults and Optimized Startup, intended to serve as a solid foundation for your vanilla Emacs configuration | Emacs Starter Kit
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 
 ## embedded 
@@ -773,6 +774,7 @@
 
 ## python 
 
+- [noembryo/KoHighlights](https://github.com/noembryo/KoHighlights) - KOHighlights is a utility for viewing KOReader's highlights and/or export them to simple text, html, csv or markdown files.
 - [beryllium-org/Micro](https://github.com/beryllium-org/Micro) - Beryllium OS Micro, a unix-like operating system for CircuitPython powered microcontrollers.
 - [kimusan/mastui](https://github.com/kimusan/mastui) - A TUI client for mastodon written in python
 - [dpipstudio/botwave](https://github.com/dpipstudio/botwave) - BotWave - Your Raspberry Pi FM Network
