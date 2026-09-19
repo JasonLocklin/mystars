@@ -221,6 +221,7 @@
 
 ## cli 
 
+- [nostacks/ekphos](https://github.com/nostacks/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
