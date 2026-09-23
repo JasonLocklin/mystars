@@ -272,6 +272,7 @@
 
 ## Python 
 
+- [novoid/lazyblorg](https://github.com/novoid/lazyblorg) - Blogging with Org-mode for very lazy people
 - [noembryo/KoHighlights](https://github.com/noembryo/KoHighlights) - KOHighlights is a utility for viewing KOReader's highlights and/or export them to simple text, html, csv or markdown files.
 - [peemot/immich-export](https://github.com/peemot/immich-export) - 
 - [yuhuan417/immich-scripts](https://github.com/yuhuan417/immich-scripts) - 
