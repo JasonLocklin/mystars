@@ -483,6 +483,7 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [erikw/restic-automatic-backup-scheduler](https://github.com/erikw/restic-automatic-backup-scheduler) - Automatic restic backup using Backblaze B2 storage and either Linux systemd timers, macOS LaunchAgent, Windows ScheduledTask or simply cron.
 - [beeper/beepy](https://github.com/beeper/beepy) - Beepy
+- [mbridak/not1mm](https://github.com/mbridak/not1mm) - Not1MM != N1MM, An amateur radio contest logger for Linux.
 
 ## llm 
 
@@ -684,7 +685,6 @@
 - [vdorie/dbarts](https://github.com/vdorie/dbarts) - Discrete Bayesian Additive Regression Trees Sampler
 - [priism-center/thinkCausal_dev](https://github.com/priism-center/thinkCausal_dev) - Point-and-click bartCause analysis and causal inference education
 - [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
-- [mbridak/not1mm](https://github.com/mbridak/not1mm) - Not1MM != N1MM, An amateur radio contest logger for Linux.
 - [g0wfv/CloudlogBashCat](https://github.com/g0wfv/CloudlogBashCat) - 
 - [bjornekelund/N1MMlistener](https://github.com/bjornekelund/N1MMlistener) - Basic windows console app to listen to N1MM style UDP broadcasts
 - [DG1JAN/xOTA-Antenna](https://github.com/DG1JAN/xOTA-Antenna) - A pcb for end fed antennas (EFHW, random wire) for SOTA, POTA,... xOTA
