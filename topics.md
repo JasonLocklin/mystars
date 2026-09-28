@@ -345,6 +345,7 @@
 
 ## emacs 
 
+- [novoid/Memacs](https://github.com/novoid/Memacs) - What did I do on February 14th 2007? Visualize your (digital) life in Org-mode
 - [novoid/lazyblorg](https://github.com/novoid/lazyblorg) - Blogging with Org-mode for very lazy people
 - [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Emacs init.el and early-init.el for Better Defaults and Optimized Startup, intended to serve as a solid foundation for your vanilla Emacs configuration | Emacs Starter Kit
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
@@ -380,6 +381,7 @@
 
 ## git 
 
+- [novoid/Memacs](https://github.com/novoid/Memacs) - What did I do on February 14th 2007? Visualize your (digital) life in Org-mode
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [charliie-dev/Logseq-Git-Sync-101](https://github.com/charliie-dev/Logseq-Git-Sync-101) - This repo aims to help Logseq users to sync their data with Git and GitHub.
@@ -576,6 +578,7 @@
 
 ## others 
 
+- [Kungsgeten/yankpad](https://github.com/Kungsgeten/yankpad) - Paste snippets from an org-mode file
 - [rh1tech/frank-386](https://github.com/rh1tech/frank-386) - Tiny386 port to RP2350
 - [vikasrawal/orgdatabase](https://github.com/vikasrawal/orgdatabase) - A database created in orgmode using yasnippet and org-collector
 - [peemot/immich-export](https://github.com/peemot/immich-export) - 
@@ -776,6 +779,7 @@
 
 ## python 
 
+- [novoid/Memacs](https://github.com/novoid/Memacs) - What did I do on February 14th 2007? Visualize your (digital) life in Org-mode
 - [novoid/lazyblorg](https://github.com/novoid/lazyblorg) - Blogging with Org-mode for very lazy people
 - [noembryo/KoHighlights](https://github.com/noembryo/KoHighlights) - KOHighlights is a utility for viewing KOReader's highlights and/or export them to simple text, html, csv or markdown files.
 - [beryllium-org/Micro](https://github.com/beryllium-org/Micro) - Beryllium OS Micro, a unix-like operating system for CircuitPython powered microcontrollers.
