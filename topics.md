@@ -125,13 +125,13 @@
 ## ai 
 
 - [mohsen1/yek](https://github.com/mohsen1/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
-- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
+- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - 👑 The all-in-one macOS menu bar companion: customizable controls, system monitor, AI Agent, Shortcuts, widgets, remote control, and more.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [Indie-Platforms/scrapecomfort](https://github.com/Indie-Platforms/scrapecomfort) - Desktop AI Data Scraper
 
 ## ai-agents 
 
-- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
+- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - 👑 The all-in-one macOS menu bar companion: customizable controls, system monitor, AI Agent, Shortcuts, widgets, remote control, and more.
 
 ## analytics 
 
@@ -502,7 +502,7 @@
 - [wormhole-app/wormhole](https://github.com/wormhole-app/wormhole) - With Wormhole, you can easily and securely share files of any size, with anyone, anywhere.
 - [d99kris/nmail](https://github.com/d99kris/nmail) - Terminal-based email client for Linux and macOS
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
-- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
+- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - 👑 The all-in-one macOS menu bar companion: customizable controls, system monitor, AI Agent, Shortcuts, widgets, remote control, and more.
 - [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 - [erikw/restic-automatic-backup-scheduler](https://github.com/erikw/restic-automatic-backup-scheduler) - Automatic restic backup using Backblaze B2 storage and either Linux systemd timers, macOS LaunchAgent, Windows ScheduledTask or simply cron.
 
@@ -884,7 +884,7 @@
 
 ## swiftui 
 
-- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
+- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - 👑 The all-in-one macOS menu bar companion: customizable controls, system monitor, AI Agent, Shortcuts, widgets, remote control, and more.
 - [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 
 ## terminal 
