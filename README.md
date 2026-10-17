@@ -403,7 +403,7 @@
 ## Swift 
 
 - [Vincent-liuwingsang/unlost](https://github.com/Vincent-liuwingsang/unlost) - 
-- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
+- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - 👑 The all-in-one macOS menu bar companion: customizable controls, system monitor, AI Agent, Shortcuts, widgets, remote control, and more.
 - [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 - [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS) - A private messenger for iOS.
 
