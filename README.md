@@ -154,6 +154,7 @@
 
 ## HTML 
 
+- [carpentries/glosario-r](https://github.com/carpentries/glosario-r) - glosario create and retrieve multilingual glossaries.
 - [lowtechmag/solar_v2](https://github.com/lowtechmag/solar_v2) - Redesign of solar.lowtechmagazine.com in Hugo engine
 - [grousell/Intro-RMarkdown](https://github.com/grousell/Intro-RMarkdown) - Introduction to RMarkdown
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
