@@ -91,7 +91,6 @@
 - [myzinsky/CloudLogCatQt](https://github.com/myzinsky/CloudLogCatQt) - Qt app (Linux, Windows, Mac) for providing CAT support for Cloudlog http://www.cloudlog.co.uk/
 - [aicodix/modem](https://github.com/aicodix/modem) - Simple OFDM modem for transceiving datagrams
 - [aicodix/rattlegram](https://github.com/aicodix/rattlegram) - Transceive UTF-8 text messages with up to 170 bytes over audio in about a second!
-- [vdorie/dbarts](https://github.com/vdorie/dbarts) - Discrete Bayesian Additive Regression Trees Sampler
 - [k3ng/k3ng_cw_keyer](https://github.com/k3ng/k3ng_cw_keyer) - K3NG Arduino CW Keyer
 - [dwinker/icom7300_remote_scope](https://github.com/dwinker/icom7300_remote_scope) - Remote Display Of IC-7300 FFT and Waterfall
 - [kolarisk/SolarXML](https://github.com/kolarisk/SolarXML) - An Arduino based XML Solar Data parser for Analog Displays
@@ -312,7 +311,7 @@
 - [Emerica/picom7410](https://github.com/Emerica/picom7410) - Python Serial CI-V for ICOM IC-7410
 - [m1geo/Cloudlog-ADIF-Uploader](https://github.com/m1geo/Cloudlog-ADIF-Uploader) - Python3 based Cloudlog uploader based around adif-io and JSON POST requests to Cloudlog API
 - [ukagit/iambic-keyer](https://github.com/ukagit/iambic-keyer) - iambic-keyer-rp2040
-- [mbridak/not1mm](https://github.com/mbridak/not1mm) - Not1MM != N1MM, An amateur radio contest logger for Linux.
+- [mbridak/not1mm](https://github.com/mbridak/not1mm) - Not1MM != N1MM, An amateur radio contest logger for Linux and MacOS.
 - [w9cf/cwsim](https://github.com/w9cf/cwsim) - Cross-platform amateur radio WPX CW contest simulator written in python, based on Morse Runner.
 - [loughkb/IC-7300-time-sync](https://github.com/loughkb/IC-7300-time-sync) - Python3 script to sync the radio's clock with your computer via CAT commands
 - [F4HTB/Universal_HamRadio_Remote_HTML5](https://github.com/F4HTB/Universal_HamRadio_Remote_HTML5) - Universal HamRadio Remote HTML5 interface
@@ -336,6 +335,7 @@
 - [surveydown-dev/surveydown](https://github.com/surveydown-dev/surveydown) - Markdown-Based, Programmable Surveys Using R, Quarto, Shiny, and PostgreSQL
 - [mnr/rpigpior](https://github.com/mnr/rpigpior) - R for Raspberry Pi with GPIO support
 - [posit-dev/r-shinylive](https://github.com/posit-dev/r-shinylive) - 
+- [vdorie/dbarts](https://github.com/vdorie/dbarts) - Discrete Bayesian Additive Regression Trees Sampler
 - [priism-center/thinkCausal_dev](https://github.com/priism-center/thinkCausal_dev) - Point-and-click bartCause analysis and causal inference education
 - [DUGroup/On-Marg-Index](https://github.com/DUGroup/On-Marg-Index) - 
 - [petrelharp/templater](https://github.com/petrelharp/templater) - Some tools for writing and compiling reports in R+markdown.
