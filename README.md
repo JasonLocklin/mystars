@@ -24,6 +24,7 @@
 - [Just](#just)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -160,7 +161,6 @@
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 - [VA3HDL/hamdashboard](https://github.com/VA3HDL/hamdashboard) - Customizable Dashboard for Ham Radio
 - [tinyworldmap/tiny-world-map](https://github.com/tinyworldmap/tiny-world-map) - tinyworldmap is a tiny world map for offline-first and low-bandwidth web apps
-- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [HB9UF/ElPiHat](https://github.com/HB9UF/ElPiHat) - EchoLink Hat for Raspberry Pi
 - [M17-Project/TR-9](https://github.com/M17-Project/TR-9) - TR-9 - M17 protocol compatible handheld - schematics, PCB design files, BOM.
 - [mountainMath/cancensus](https://github.com/mountainMath/cancensus) - R wrapper for calling CensusMapper APIs
@@ -218,6 +218,10 @@
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [flip-rossi/readeck.koplugin](https://github.com/flip-rossi/readeck.koplugin) - An unofficial KOReader plugin to add integration with your Readeck instance.
 - [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
+
+## MDX 
+
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Others 
 
