@@ -100,6 +100,7 @@
 
 ## CSS 
 
+- [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
 - [zsoltika/omnivore2epub-py](https://github.com/zsoltika/omnivore2epub-py) - A simple python script to convert articles save to Omnivore.app as EPUB
 
 ## Dart 
