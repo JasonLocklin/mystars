@@ -584,6 +584,7 @@
 
 ## others 
 
+- [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
 - [Kungsgeten/yankpad](https://github.com/Kungsgeten/yankpad) - Paste snippets from an org-mode file
 - [rh1tech/frank-386](https://github.com/rh1tech/frank-386) - Tiny386 port to RP2350
 - [vikasrawal/orgdatabase](https://github.com/vikasrawal/orgdatabase) - A database created in orgmode using yasnippet and org-collector
