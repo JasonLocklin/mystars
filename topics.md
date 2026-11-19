@@ -108,6 +108,7 @@
 - [server](#server)
 - [shell](#shell)
 - [sql](#sql)
+- [static-site-generator](#static-site-generator)
 - [swift](#swift)
 - [swiftui](#swiftui)
 - [terminal](#terminal)
@@ -623,7 +624,6 @@
 - [akissinger/dodo](https://github.com/akissinger/dodo) - A graphical, hackable email client based on notmuch
 - [AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker](https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker) - Companion PCB's to add ATU, internal battery with charger and a speaker to QRP Labs QMX+ transceiver
 - [Rhizomatica/mercury](https://github.com/Rhizomatica/mercury) - Mercury is a Digital Radio OFDM protocol for HF broadcast and peer-to-peer ARQ connections with compatible TCP interfaces
-- [justlark/gempost](https://github.com/justlark/gempost) - A simple static site generator for creating a blog on the Gemini protocol
 - [Joedmin/xExtension-readeck-button](https://github.com/Joedmin/xExtension-readeck-button) - Add FreshRSS articles to Readeck with one simple button click or a keyboard shortcut.
 - [ericjenott/Evertop](https://github.com/ericjenott/Evertop) - E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life.
 - [draga79/NotiMail](https://github.com/draga79/NotiMail) - Server-side email notification manager using several push providers for real-time alerts. Conserve mobile battery without compromising on immediacy.
@@ -889,6 +889,10 @@
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is a high-performance analytical database system
+
+## static-site-generator 
+
+- [justlark/gempost](https://github.com/justlark/gempost) - A simple static site generator for creating a blog on the Gemini protocol
 
 ## swift 
 
