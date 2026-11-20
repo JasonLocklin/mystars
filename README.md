@@ -164,7 +164,6 @@
 - [tinyworldmap/tiny-world-map](https://github.com/tinyworldmap/tiny-world-map) - tinyworldmap is a tiny world map for offline-first and low-bandwidth web apps
 - [HB9UF/ElPiHat](https://github.com/HB9UF/ElPiHat) - EchoLink Hat for Raspberry Pi
 - [M17-Project/TR-9](https://github.com/M17-Project/TR-9) - TR-9 - M17 protocol compatible handheld - schematics, PCB design files, BOM.
-- [mountainMath/cancensus](https://github.com/mountainMath/cancensus) - R wrapper for calling CensusMapper APIs
 
 ## Haskell 
 
@@ -342,6 +341,7 @@
 - [vdorie/dbarts](https://github.com/vdorie/dbarts) - Discrete Bayesian Additive Regression Trees Sampler
 - [priism-center/thinkCausal_dev](https://github.com/priism-center/thinkCausal_dev) - Point-and-click bartCause analysis and causal inference education
 - [DUGroup/On-Marg-Index](https://github.com/DUGroup/On-Marg-Index) - 
+- [mountainMath/cancensus](https://github.com/mountainMath/cancensus) - R wrapper for calling CensusMapper APIs
 - [petrelharp/templater](https://github.com/petrelharp/templater) - Some tools for writing and compiling reports in R+markdown.
 - [DCConley/schoolR](https://github.com/DCConley/schoolR) - Useful functions for School Board Researchers
 - [hadley/r-pkgs](https://github.com/hadley/r-pkgs) - Building R packages
