@@ -63,6 +63,8 @@
 - [image-processing](#image-processing)
 - [ios](#ios)
 - [iot](#iot)
+- [java](#java)
+- [javafx](#javafx)
 - [javascript](#javascript)
 - [json](#json)
 - [julia](#julia)
@@ -451,6 +453,14 @@
 
 - [TheAutodidacts/InternetTelegraph](https://github.com/TheAutodidacts/InternetTelegraph) - Source code for the One-Button Internet Telegraph
 
+## java 
+
+- [DSheirer/sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).
+
+## javafx 
+
+- [DSheirer/sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).
+
 ## javascript 
 
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
@@ -681,7 +691,6 @@
 - [rubiojr/awesome-restic](https://github.com/rubiojr/awesome-restic) - Awesome Restic related projects
 - [GPh83/resticterm](https://github.com/GPh83/resticterm) - multi-platform UI for restic backup software. (https://restic.net/)
 - [Emerica/picom7410](https://github.com/Emerica/picom7410) - Python Serial CI-V for ICOM IC-7410
-- [DSheirer/sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).  Website:
 - [m1geo/Cloudlog-ADIF-Uploader](https://github.com/m1geo/Cloudlog-ADIF-Uploader) - Python3 based Cloudlog uploader based around adif-io and JSON POST requests to Cloudlog API
 - [myzinsky/CloudLogCatQt](https://github.com/myzinsky/CloudLogCatQt) - Qt app (Linux, Windows, Mac) for providing CAT support for Cloudlog http://www.cloudlog.co.uk/
 - [illdefined/cloudlog-adifwatch](https://github.com/illdefined/cloudlog-adifwatch) - Automatic upload of ADIF log to CloudLog
