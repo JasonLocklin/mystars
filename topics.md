@@ -613,7 +613,7 @@
 - [gemrest/momoka](https://github.com/gemrest/momoka) - 🏕️ A Gemini-to-Gopher proxy that bridges the smolweb to even more smolweb
 - [jasonchoimtt/koreader-syncthing](https://github.com/jasonchoimtt/koreader-syncthing) - Syncthing plugin for KOReader
 - [andyholmes/valent](https://github.com/andyholmes/valent) - Connect, control and sync devices
-- [cosmic-utils/cosmic-connect-applet](https://github.com/cosmic-utils/cosmic-connect-applet) - An attempt to provide KDE Connect functionality in a cosmic applet
+- [cosmic-ext-orbit/cosmic-connect-applet](https://github.com/cosmic-ext-orbit/cosmic-connect-applet) - An attempt to provide KDE Connect functionality in a cosmic applet
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [lowtechmag/solar_v2](https://github.com/lowtechmag/solar_v2) - Redesign of solar.lowtechmagazine.com in Hugo engine
 - [JS8Call-improved/JS8Call-improved](https://github.com/JS8Call-improved/JS8Call-improved) - Active development HEAD for the JS8Call project
