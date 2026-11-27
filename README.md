@@ -359,7 +359,7 @@
 - [nostacks/ekphos](https://github.com/nostacks/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [kyoheiu/felix](https://github.com/kyoheiu/felix) - tui file manager with vim-like key mapping
-- [cosmic-utils/cosmic-connect-applet](https://github.com/cosmic-utils/cosmic-connect-applet) - An attempt to provide KDE Connect functionality in a cosmic applet
+- [cosmic-ext-orbit/cosmic-connect-applet](https://github.com/cosmic-ext-orbit/cosmic-connect-applet) - An attempt to provide KDE Connect functionality in a cosmic applet
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [justlark/gempost](https://github.com/justlark/gempost) - A simple static site generator for creating a blog on the Gemini protocol
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
